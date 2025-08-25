@@ -1,0 +1,11 @@
+sc:
+  sc_ip: ""
+
+database:
+  username: ""
+  password: ""
+
+notice:
+  webhook:
+
+
