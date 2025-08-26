@@ -2,7 +2,6 @@ import sys
 from pathlib import Path
 from loguru import logger
 from typing import Optional
-import os
 
 class ProjectLogger:
     def __init__(self, project_name: str = "TESTBOT", log_level: str = "INFO"):
