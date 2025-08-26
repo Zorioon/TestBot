@@ -1,5 +1,7 @@
 sc:
-  sc_ip: ""
+  sc_ip: "192.192.101.175"
+  username: "admin"
+  password: "root123."
 
 database:
   username: ""
