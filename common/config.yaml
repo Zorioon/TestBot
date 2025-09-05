@@ -1,13 +1,20 @@
 sc:
-  sc_ip: "192.192.101.175"
+  sc_ip: "172.16.88.218"
+  ssh_username: "root"
+  ssh_password: "123.com"
   username: "admin"
   password: "root123."
+
+se:
 
 database:
   username: ""
   password: ""
 
+businesses:
+  data_label: ["192.192.101.156:5001"]
+
 notice:
-  webhook:
+  webhook_key: dfe6a009-cec2-4726-98ff-968acb0cdb7c
 
 
