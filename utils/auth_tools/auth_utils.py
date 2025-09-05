@@ -9,10 +9,12 @@ from utils.log_tools.logger_utils import get_logger
 
 log = get_logger(__name__)
 
+
 class AuthUtils:
     """
     登录认证方法
     """
+
     @staticmethod
     async def login(
         https_req: AsyncHttpClient,
@@ -42,7 +44,7 @@ class AuthUtils:
                 captcha_code = recognize_captcha_from_base64(
                     captcha_resp["data"]["captcha"]
                 )
-                
+
                 # 3、拼装登录信息
                 encrypted_data = rsa_encrypt(
                     json.dumps(
@@ -64,15 +66,15 @@ class AuthUtils:
                 if login_resp["code"] == 200:
                     log.info(f"登录成功")
                     return login_resp["data"]["token"]
-                
+
                 raise ValueError(f"登录失败: {response}")
-                                 
+
             except (KeyError, ValueError) as parse_err:
                 # 数据解析/接口返回异常 → warning
                 log.warning(f"业务逻辑错误 (第 {attempt} 次): {parse_err}")
 
             except Exception as net_err:
                 # 网络错误/请求异常等 → error
-                log.exception(f"系统异常 (第 {attempt} 次)")
+                log.error(f"系统异常 (第 {attempt} 次)")
 
         raise RuntimeError(f"登录失败，已尝试 {max_retries} 次")

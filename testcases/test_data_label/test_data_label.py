@@ -106,7 +106,7 @@ class TestDataLabel:
             # await asyncio.sleep(30)
         except Exception:
 
-            log.exception("初始化规则失败")
+            log.error("初始化规则失败")
             raise
 
     def compare_api_asset_label_result(
@@ -1700,7 +1700,7 @@ class TestDataLabel:
                 file_data = file_asset_data_label.get("file_data")
                 self.append_to_files(name, file_data, file_data_label_path)
             except Exception as e:
-                log.exception(f"生成文件失败: {name}, 错误: {e}")
+                log.error(f"生成文件失败: {name}, 错误: {e}")
                 raise
 
     spec_list = load_specification.__func__()
@@ -1913,12 +1913,11 @@ class TestDataLabel:
         test_results_target_path = ZipUtils.zip_files(
             test_result_path, "数据标签测试结果.zip"
         )
-        
+
         for test_result in self.test_results:
             md_report = self.export_summary_markdown(test_result)
             await wecom_robot.send_markdown(md_report)
-        
-        
+
         await http_req.set_url("http://192.192.101.156:5004")
         await http_req.upload_files(
             files=[test_results_target_path, test_data_target_path],
