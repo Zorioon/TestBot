@@ -1,0 +1,5526 @@
+{
+    "GB/T 43697-2024 数据安全技术 数据分类分级规则": [
+        {
+            "id": "Srhida000001",
+            "name": "姓名"
+        },
+        {
+            "id": "Srhida000002",
+            "name": "脱敏姓名"
+        },
+        {
+            "id": "Srhida000003",
+            "name": "年龄"
+        },
+        {
+            "id": "Srhida000004",
+            "name": "出生日期"
+        },
+        {
+            "id": "Srhida000005",
+            "name": "性别"
+        },
+        {
+            "id": "Srhida000006",
+            "name": "民族"
+        },
+        {
+            "id": "Srhida000007",
+            "name": "籍贯"
+        },
+        {
+            "id": "Srhida000008",
+            "name": "国籍"
+        },
+        {
+            "id": "Srhida000009",
+            "name": "政治面貌"
+        },
+        {
+            "id": "Srhida000010",
+            "name": "婚姻状态"
+        },
+        {
+            "id": "Srhida000011",
+            "name": "生育情况"
+        },
+        {
+            "id": "Srhida000012",
+            "name": "宗教信仰"
+        },
+        {
+            "id": "Srhida000013",
+            "name": "证件类型"
+        },
+        {
+            "id": "Srhida000014",
+            "name": "证件有效期"
+        },
+        {
+            "id": "Srhida000015",
+            "name": "身份证号"
+        },
+        {
+            "id": "Srhida000016",
+            "name": "脱敏身份证号"
+        },
+        {
+            "id": "Srhida000017",
+            "name": "护照号"
+        },
+        {
+            "id": "Srhida000018",
+            "name": "出生证号"
+        },
+        {
+            "id": "Srhida000019",
+            "name": "居住证号"
+        },
+        {
+            "id": "Srhida000020",
+            "name": "社保卡号"
+        },
+        {
+            "id": "Srhida000021",
+            "name": "银行卡号"
+        },
+        {
+            "id": "Srhida000022",
+            "name": "脱敏银行卡号"
+        },
+        {
+            "id": "Srhida000023",
+            "name": "存折账号"
+        },
+        {
+            "id": "Srhida000024",
+            "name": "开户行名称"
+        },
+        {
+            "id": "Srhida000025",
+            "name": "开户行编码"
+        },
+        {
+            "id": "Srhida000027",
+            "name": "驾驶证编号"
+        },
+        {
+            "id": "Srhida000028",
+            "name": "港澳通行证号"
+        },
+        {
+            "id": "Srhida000029",
+            "name": "香港身份证号"
+        },
+        {
+            "id": "Srhida000030",
+            "name": "澳门身份证号"
+        },
+        {
+            "id": "Srhida000031",
+            "name": "台胞证号"
+        },
+        {
+            "id": "Srhida000032",
+            "name": "台湾身份证号"
+        },
+        {
+            "id": "Srhida000033",
+            "name": "军官证号"
+        },
+        {
+            "id": "Srhida000034",
+            "name": "健康卡号"
+        },
+        {
+            "id": "Srhida000035",
+            "name": "退休证号"
+        },
+        {
+            "id": "Srhida000036",
+            "name": "学位"
+        },
+        {
+            "id": "Srhida000037",
+            "name": "学历"
+        },
+        {
+            "id": "Srhida000038",
+            "name": "学校名称"
+        },
+        {
+            "id": "Srhida000039",
+            "name": "学校代码"
+        },
+        {
+            "id": "Srhida000041",
+            "name": "院系"
+        },
+        {
+            "id": "Srhida000042",
+            "name": "专业"
+        },
+        {
+            "id": "Srhida000044",
+            "name": "职业名称"
+        },
+        {
+            "id": "Srhida000045",
+            "name": "职业编码"
+        },
+        {
+            "id": "Srhida000046",
+            "name": "岗位名称"
+        },
+        {
+            "id": "Srhida000047",
+            "name": "岗位编码"
+        },
+        {
+            "id": "Srhida000049",
+            "name": "工号"
+        },
+        {
+            "id": "Srhida000050",
+            "name": "邮政编码"
+        },
+        {
+            "id": "Srhida000051",
+            "name": "手机号"
+        },
+        {
+            "id": "Srhida000053",
+            "name": "座机号"
+        },
+        {
+            "id": "Srhida000054",
+            "name": "邮箱"
+        },
+        {
+            "id": "Srhida000056",
+            "name": "QQ号"
+        },
+        {
+            "id": "Srhida000057",
+            "name": "微信号"
+        },
+        {
+            "id": "Srhida000058",
+            "name": "钉钉号"
+        },
+        {
+            "id": "Srhida000059",
+            "name": "微博账号"
+        },
+        {
+            "id": "Srhida000060",
+            "name": "地址"
+        },
+        {
+            "id": "Srhida000062",
+            "name": "家庭住址"
+        },
+        {
+            "id": "Srhida000063",
+            "name": "公司地址"
+        },
+        {
+            "id": "Srhida000078",
+            "name": "定位"
+        },
+        {
+            "id": "Srhida000079",
+            "name": "经纬度"
+        },
+        {
+            "id": "Srhida000084",
+            "name": "ABO血型"
+        },
+        {
+            "id": "Srhida000085",
+            "name": "Rh血型"
+        },
+        {
+            "id": "Srhida000086",
+            "name": "基因"
+        },
+        {
+            "id": "Srhida000087",
+            "name": "指纹"
+        },
+        {
+            "id": "Srhida000088",
+            "name": "掌纹"
+        },
+        {
+            "id": "Srhida000089",
+            "name": "声纹"
+        },
+        {
+            "id": "Srhida000090",
+            "name": "虹膜"
+        },
+        {
+            "id": "Srhida000091",
+            "name": "人脸"
+        },
+        {
+            "id": "Srhida000092",
+            "name": "身高"
+        },
+        {
+            "id": "Srhida000093",
+            "name": "体重"
+        },
+        {
+            "id": "Srhida000095",
+            "name": "体温"
+        },
+        {
+            "id": "Srhida000096",
+            "name": "脉搏"
+        },
+        {
+            "id": "Srhida000097",
+            "name": "心率"
+        },
+        {
+            "id": "Srhida000098",
+            "name": "呼吸"
+        },
+        {
+            "id": "Srhida000099",
+            "name": "血压"
+        },
+        {
+            "id": "Srhida000100",
+            "name": "血糖"
+        },
+        {
+            "id": "Srhida000101",
+            "name": "血脂"
+        },
+        {
+            "id": "Srhida000102",
+            "name": "视力"
+        },
+        {
+            "id": "Srhida000103",
+            "name": "肺活量"
+        },
+        {
+            "id": "Srhida000105",
+            "name": "统一社会信用代码"
+        },
+        {
+            "id": "Srhida000106",
+            "name": "经营状态"
+        },
+        {
+            "id": "Srhida000107",
+            "name": "公司名称"
+        },
+        {
+            "id": "Srhida000108",
+            "name": "公司编码"
+        },
+        {
+            "id": "Srhida000109",
+            "name": "组织名称"
+        },
+        {
+            "id": "Srhida000110",
+            "name": "组织编码"
+        },
+        {
+            "id": "Srhida000111",
+            "name": "法人信息"
+        },
+        {
+            "id": "Srhida000112",
+            "name": "部门名称"
+        },
+        {
+            "id": "Srhida000113",
+            "name": "部门编码"
+        },
+        {
+            "id": "Srhida000114",
+            "name": "用户名"
+        },
+        {
+            "id": "Srhida000115",
+            "name": "用户编码"
+        },
+        {
+            "id": "Srhida000116",
+            "name": "用户类型"
+        },
+        {
+            "id": "Srhida000117",
+            "name": "密码（明文）"
+        },
+        {
+            "id": "Srhida000118",
+            "name": "密码（密文）"
+        },
+        {
+            "id": "Srhida000119",
+            "name": "车牌号"
+        },
+        {
+            "id": "Srhida000120",
+            "name": "车架号"
+        },
+        {
+            "id": "Srhida000123",
+            "name": "收入"
+        },
+        {
+            "id": "Srhida000124",
+            "name": "薪资"
+        },
+        {
+            "id": "Srhida000126",
+            "name": "利润"
+        },
+        {
+            "id": "Srhida000127",
+            "name": "成本"
+        },
+        {
+            "id": "Srhida000128",
+            "name": "预算"
+        },
+        {
+            "id": "Srhida000129",
+            "name": "支付宝账号"
+        },
+        {
+            "id": "Srhida000131",
+            "name": "发票号"
+        },
+        {
+            "id": "Srhida000132",
+            "name": "税率"
+        },
+        {
+            "id": "Srhida000133",
+            "name": "保单号"
+        },
+        {
+            "id": "Srhida000134",
+            "name": "投保单号"
+        },
+        {
+            "id": "Srhida000141",
+            "name": "执业证书编号"
+        },
+        {
+            "id": "Srhida000145",
+            "name": "住院号"
+        },
+        {
+            "id": "Srhida000146",
+            "name": "门诊号"
+        },
+        {
+            "id": "Srhida000147",
+            "name": "医保类型"
+        },
+        {
+            "id": "Srhida000218",
+            "name": "入院记录"
+        },
+        {
+            "id": "Srhida000219",
+            "name": "入院时间"
+        },
+        {
+            "id": "Srhida000220",
+            "name": "出院记录"
+        },
+        {
+            "id": "Srhida000221",
+            "name": "出院时间"
+        },
+        {
+            "id": "Srhida000228",
+            "name": "死亡日期"
+        },
+        {
+            "id": "Srhida000231",
+            "name": "治疗日期"
+        },
+        {
+            "id": "Srhida000232",
+            "name": "发病日期"
+        },
+        {
+            "id": "Srhida000237",
+            "name": "信用风险评级"
+        },
+        {
+            "id": "Srhida000238",
+            "name": "信用等级"
+        },
+        {
+            "id": "Srhida000239",
+            "name": "验证码"
+        },
+        {
+            "id": "Srhida000241",
+            "name": "订单编号"
+        },
+        {
+            "id": "Srhida000242",
+            "name": "订单金额"
+        },
+        {
+            "id": "Srhida000243",
+            "name": "订单时间"
+        },
+        {
+            "id": "Srhida000245",
+            "name": "合同名称"
+        },
+        {
+            "id": "Srhida000246",
+            "name": "合同编号"
+        },
+        {
+            "id": "Srhida000247",
+            "name": "客户名称"
+        },
+        {
+            "id": "Srhida000248",
+            "name": "客户编号"
+        },
+        {
+            "id": "Srhida000249",
+            "name": "客户类型"
+        },
+        {
+            "id": "Srhida000250",
+            "name": "客户等级"
+        },
+        {
+            "id": "Srhida000251",
+            "name": "客户凭证"
+        },
+        {
+            "id": "Srhida000252",
+            "name": "交易金额"
+        },
+        {
+            "id": "Srhida000253",
+            "name": "交易日期"
+        },
+        {
+            "id": "Srhida000254",
+            "name": "交易状态"
+        },
+        {
+            "id": "Srhida000255",
+            "name": "交易币种"
+        },
+        {
+            "id": "Srhida000256",
+            "name": "交易码"
+        },
+        {
+            "id": "Srhida000257",
+            "name": "交易流水号"
+        },
+        {
+            "id": "Srhida000258",
+            "name": "商户名称"
+        },
+        {
+            "id": "Srhida000259",
+            "name": "商户编码"
+        },
+        {
+            "id": "Srhida000260",
+            "name": "商户地址"
+        },
+        {
+            "id": "Srhida000261",
+            "name": "商品名称"
+        },
+        {
+            "id": "Srhida000262",
+            "name": "商品编号"
+        },
+        {
+            "id": "Srhida000267",
+            "name": "商品类型"
+        },
+        {
+            "id": "Srhida000268",
+            "name": "联系人"
+        },
+        {
+            "id": "Srhida000269",
+            "name": "联系电话"
+        },
+        {
+            "id": "Srhida000270",
+            "name": "资产名称"
+        },
+        {
+            "id": "Srhida000271",
+            "name": "资产编号"
+        },
+        {
+            "id": "Srhida000272",
+            "name": "资产类别"
+        },
+        {
+            "id": "Srhida000273",
+            "name": "设备名称"
+        },
+        {
+            "id": "Srhida000274",
+            "name": "设备类别"
+        },
+        {
+            "id": "Srhida000275",
+            "name": "设备编号"
+        },
+        {
+            "id": "Srhida000276",
+            "name": "设备型号"
+        },
+        {
+            "id": "Srhida000277",
+            "name": "设备生产厂商"
+        },
+        {
+            "id": "Srhida000278",
+            "name": "设备配置"
+        },
+        {
+            "id": "Srhida000279",
+            "name": "IPv4"
+        },
+        {
+            "id": "Srhida000280",
+            "name": "IPv6"
+        },
+        {
+            "id": "Srhida000281",
+            "name": "MEID"
+        },
+        {
+            "id": "Srhida000282",
+            "name": "IMEI"
+        },
+        {
+            "id": "Srhida000283",
+            "name": "IMSI"
+        },
+        {
+            "id": "Srhida000284",
+            "name": "MAC地址"
+        },
+        {
+            "id": "Srhida000285",
+            "name": "APN"
+        },
+        {
+            "id": "Srhida000289",
+            "name": "不动产单元号"
+        },
+        {
+            "id": "Srhida000290",
+            "name": "房产证号"
+        },
+        {
+            "id": "Srhida000307",
+            "name": "学号"
+        },
+        {
+            "id": "Srhida000321",
+            "name": "专利名称"
+        },
+        {
+            "id": "Srhida000322",
+            "name": "专利申请号"
+        },
+        {
+            "id": "Srhida000323",
+            "name": "专利授权号"
+        },
+        {
+            "id": "Srhida000331",
+            "name": "证书名称"
+        },
+        {
+            "id": "Srhida000332",
+            "name": "证书编号"
+        },
+        {
+            "id": "Srhida000334",
+            "name": "就业单位"
+        },
+        {
+            "id": "Srhida000335",
+            "name": "黑名单"
+        },
+        {
+            "id": "Srhida000336",
+            "name": "白名单"
+        },
+        {
+            "id": "Srhida000337",
+            "name": "职工类型"
+        }
+    ],
+    "GB/T 39725-2020 信息安全技术 健康医疗数据安全指南": [
+        {
+            "id": "Srhida000001",
+            "name": "姓名"
+        },
+        {
+            "id": "Srhida000002",
+            "name": "脱敏姓名"
+        },
+        {
+            "id": "Srhida000003",
+            "name": "年龄"
+        },
+        {
+            "id": "Srhida000004",
+            "name": "出生日期"
+        },
+        {
+            "id": "Srhida000005",
+            "name": "性别"
+        },
+        {
+            "id": "Srhida000006",
+            "name": "民族"
+        },
+        {
+            "id": "Srhida000007",
+            "name": "籍贯"
+        },
+        {
+            "id": "Srhida000008",
+            "name": "国籍"
+        },
+        {
+            "id": "Srhida000009",
+            "name": "政治面貌"
+        },
+        {
+            "id": "Srhida000010",
+            "name": "婚姻状态"
+        },
+        {
+            "id": "Srhida000011",
+            "name": "生育情况"
+        },
+        {
+            "id": "Srhida000012",
+            "name": "宗教信仰"
+        },
+        {
+            "id": "Srhida000013",
+            "name": "证件类型"
+        },
+        {
+            "id": "Srhida000014",
+            "name": "证件有效期"
+        },
+        {
+            "id": "Srhida000015",
+            "name": "身份证号码"
+        },
+        {
+            "id": "Srhida000016",
+            "name": "脱敏身份证号"
+        },
+        {
+            "id": "Srhida000017",
+            "name": "护照号"
+        },
+        {
+            "id": "Srhida000018",
+            "name": "出生证号"
+        },
+        {
+            "id": "Srhida000019",
+            "name": "居住证号"
+        },
+        {
+            "id": "Srhida000020",
+            "name": "社保卡号"
+        },
+        {
+            "id": "Srhida000021",
+            "name": "银行卡号"
+        },
+        {
+            "id": "Srhida000022",
+            "name": "脱敏银行卡号"
+        },
+        {
+            "id": "Srhida000023",
+            "name": "存折账号"
+        },
+        {
+            "id": "Srhida000024",
+            "name": "开户行名称"
+        },
+        {
+            "id": "Srhida000025",
+            "name": "开户行编码"
+        },
+        {
+            "id": "Srhida000026",
+            "name": "账户余额"
+        },
+        {
+            "id": "Srhida000027",
+            "name": "驾驶证编号"
+        },
+        {
+            "id": "Srhida000028",
+            "name": "港澳通行证号"
+        },
+        {
+            "id": "Srhida000029",
+            "name": "香港身份证号"
+        },
+        {
+            "id": "Srhida000030",
+            "name": "澳门身份证号"
+        },
+        {
+            "id": "Srhida000031",
+            "name": "台胞证号"
+        },
+        {
+            "id": "Srhida000032",
+            "name": "台湾身份证号"
+        },
+        {
+            "id": "Srhida000033",
+            "name": "军官证号"
+        },
+        {
+            "id": "Srhida000034",
+            "name": "健康卡号"
+        },
+        {
+            "id": "Srhida000035",
+            "name": "退休证号"
+        },
+        {
+            "id": "Srhida000036",
+            "name": "学位"
+        },
+        {
+            "id": "Srhida000037",
+            "name": "学历"
+        },
+        {
+            "id": "Srhida000038",
+            "name": "学校名称"
+        },
+        {
+            "id": "Srhida000039",
+            "name": "学校代码"
+        },
+        {
+            "id": "Srhida000041",
+            "name": "院系"
+        },
+        {
+            "id": "Srhida000042",
+            "name": "专业"
+        },
+        {
+            "id": "Srhida000044",
+            "name": "职业名称"
+        },
+        {
+            "id": "Srhida000045",
+            "name": "职业编码"
+        },
+        {
+            "id": "Srhida000046",
+            "name": "岗位名称"
+        },
+        {
+            "id": "Srhida000047",
+            "name": "岗位编码"
+        },
+        {
+            "id": "Srhida000049",
+            "name": "工号"
+        },
+        {
+            "id": "Srhida000050",
+            "name": "邮政编码"
+        },
+        {
+            "id": "Srhida000051",
+            "name": "手机号"
+        },
+        {
+            "id": "Srhida000053",
+            "name": "座机号"
+        },
+        {
+            "id": "Srhida000054",
+            "name": "邮箱"
+        },
+        {
+            "id": "Srhida000056",
+            "name": "QQ号"
+        },
+        {
+            "id": "Srhida000057",
+            "name": "微信号"
+        },
+        {
+            "id": "Srhida000058",
+            "name": "钉钉号"
+        },
+        {
+            "id": "Srhida000059",
+            "name": "微博账号"
+        },
+        {
+            "id": "Srhida000060",
+            "name": "地址"
+        },
+        {
+            "id": "Srhida000062",
+            "name": "家庭住址"
+        },
+        {
+            "id": "Srhida000063",
+            "name": "公司地址"
+        },
+        {
+            "id": "Srhida000078",
+            "name": "定位"
+        },
+        {
+            "id": "Srhida000079",
+            "name": "经纬度"
+        },
+        {
+            "id": "Srhida000084",
+            "name": "ABO血型"
+        },
+        {
+            "id": "Srhida000085",
+            "name": "Rh血型"
+        },
+        {
+            "id": "Srhida000086",
+            "name": "基因"
+        },
+        {
+            "id": "Srhida000087",
+            "name": "指纹"
+        },
+        {
+            "id": "Srhida000088",
+            "name": "掌纹"
+        },
+        {
+            "id": "Srhida000089",
+            "name": "声纹"
+        },
+        {
+            "id": "Srhida000090",
+            "name": "虹膜"
+        },
+        {
+            "id": "Srhida000091",
+            "name": "人脸"
+        },
+        {
+            "id": "Srhida000092",
+            "name": "身高"
+        },
+        {
+            "id": "Srhida000093",
+            "name": "体重"
+        },
+        {
+            "id": "Srhida000094",
+            "name": "腰围"
+        },
+        {
+            "id": "Srhida000095",
+            "name": "体温"
+        },
+        {
+            "id": "Srhida000096",
+            "name": "脉搏"
+        },
+        {
+            "id": "Srhida000097",
+            "name": "心率"
+        },
+        {
+            "id": "Srhida000098",
+            "name": "呼吸"
+        },
+        {
+            "id": "Srhida000099",
+            "name": "血压"
+        },
+        {
+            "id": "Srhida000100",
+            "name": "血糖"
+        },
+        {
+            "id": "Srhida000101",
+            "name": "血脂"
+        },
+        {
+            "id": "Srhida000102",
+            "name": "视力"
+        },
+        {
+            "id": "Srhida000103",
+            "name": "肺活量"
+        },
+        {
+            "id": "Srhida000104",
+            "name": "体质指数"
+        },
+        {
+            "id": "Srhida000105",
+            "name": "统一社会信用代码"
+        },
+        {
+            "id": "Srhida000106",
+            "name": "经营状态"
+        },
+        {
+            "id": "Srhida000107",
+            "name": "公司名称"
+        },
+        {
+            "id": "Srhida000108",
+            "name": "公司编码"
+        },
+        {
+            "id": "Srhida000109",
+            "name": "组织名称"
+        },
+        {
+            "id": "Srhida000110",
+            "name": "组织编码"
+        },
+        {
+            "id": "Srhida000111",
+            "name": "法人信息"
+        },
+        {
+            "id": "Srhida000112",
+            "name": "部门名称"
+        },
+        {
+            "id": "Srhida000113",
+            "name": "部门编码"
+        },
+        {
+            "id": "Srhida000117",
+            "name": "密码（明文）"
+        },
+        {
+            "id": "Srhida000118",
+            "name": "密码（密文）"
+        },
+        {
+            "id": "Srhida000119",
+            "name": "车牌号"
+        },
+        {
+            "id": "Srhida000120",
+            "name": "车架号"
+        },
+        {
+            "id": "Srhida000121",
+            "name": "车辆品牌"
+        },
+        {
+            "id": "Srhida000122",
+            "name": "车辆类型"
+        },
+        {
+            "id": "Srhida000123",
+            "name": "收入"
+        },
+        {
+            "id": "Srhida000124",
+            "name": "薪资"
+        },
+        {
+            "id": "Srhida000125",
+            "name": "费用"
+        },
+        {
+            "id": "Srhida000126",
+            "name": "利润"
+        },
+        {
+            "id": "Srhida000127",
+            "name": "成本"
+        },
+        {
+            "id": "Srhida000128",
+            "name": "预算"
+        },
+        {
+            "id": "Srhida000129",
+            "name": "支付宝账号"
+        },
+        {
+            "id": "Srhida000130",
+            "name": "支付方式"
+        },
+        {
+            "id": "Srhida000131",
+            "name": "发票号"
+        },
+        {
+            "id": "Srhida000132",
+            "name": "税率"
+        },
+        {
+            "id": "Srhida000133",
+            "name": "保单号"
+        },
+        {
+            "id": "Srhida000134",
+            "name": "投保单号"
+        },
+        {
+            "id": "Srhida000135",
+            "name": "保险公司"
+        },
+        {
+            "id": "Srhida000136",
+            "name": "保险名称"
+        },
+        {
+            "id": "Srhida000137",
+            "name": "保费"
+        },
+        {
+            "id": "Srhida000138",
+            "name": "投保人"
+        },
+        {
+            "id": "Srhida000139",
+            "name": "被保人"
+        },
+        {
+            "id": "Srhida000140",
+            "name": "医务人员姓名"
+        },
+        {
+            "id": "Srhida000141",
+            "name": "执业证书编号"
+        },
+        {
+            "id": "Srhida000142",
+            "name": "执业类别"
+        },
+        {
+            "id": "Srhida000143",
+            "name": "执业范围"
+        },
+        {
+            "id": "Srhida000144",
+            "name": "患者姓名"
+        },
+        {
+            "id": "Srhida000145",
+            "name": "住院号"
+        },
+        {
+            "id": "Srhida000146",
+            "name": "门诊号"
+        },
+        {
+            "id": "Srhida000147",
+            "name": "医保类型"
+        },
+        {
+            "id": "Srhida000148",
+            "name": "吸烟史"
+        },
+        {
+            "id": "Srhida000149",
+            "name": "饮酒史"
+        },
+        {
+            "id": "Srhida000150",
+            "name": "月经史"
+        },
+        {
+            "id": "Srhida000151",
+            "name": "婚育史"
+        },
+        {
+            "id": "Srhida000152",
+            "name": "家族史"
+        },
+        {
+            "id": "Srhida000153",
+            "name": "现病史"
+        },
+        {
+            "id": "Srhida000154",
+            "name": "既往史"
+        },
+        {
+            "id": "Srhida000155",
+            "name": "过敏史"
+        },
+        {
+            "id": "Srhida000156",
+            "name": "传染病史"
+        },
+        {
+            "id": "Srhida000157",
+            "name": "性病史"
+        },
+        {
+            "id": "Srhida000158",
+            "name": "预防接种史"
+        },
+        {
+            "id": "Srhida000159",
+            "name": "手术史"
+        },
+        {
+            "id": "Srhida000160",
+            "name": "疾病名称"
+        },
+        {
+            "id": "Srhida000161",
+            "name": "疾病症状"
+        },
+        {
+            "id": "Srhida000162",
+            "name": "疾病传播途径"
+        },
+        {
+            "id": "Srhida000163",
+            "name": "疾病防控措施"
+        },
+        {
+            "id": "Srhida000164",
+            "name": "病案号"
+        },
+        {
+            "id": "Srhida000165",
+            "name": "药品名称"
+        },
+        {
+            "id": "Srhida000166",
+            "name": "药品规格"
+        },
+        {
+            "id": "Srhida000167",
+            "name": "药品用法"
+        },
+        {
+            "id": "Srhida000168",
+            "name": "用药数量"
+        },
+        {
+            "id": "Srhida000169",
+            "name": "主诉"
+        },
+        {
+            "id": "Srhida000170",
+            "name": "医嘱"
+        },
+        {
+            "id": "Srhida000171",
+            "name": "检查时间"
+        },
+        {
+            "id": "Srhida000172",
+            "name": "辅助检查"
+        },
+        {
+            "id": "Srhida000173",
+            "name": "体格检查"
+        },
+        {
+            "id": "Srhida000174",
+            "name": "专科检查"
+        },
+        {
+            "id": "Srhida000175",
+            "name": "精神检查"
+        },
+        {
+            "id": "Srhida000176",
+            "name": "手术名称"
+        },
+        {
+            "id": "Srhida000177",
+            "name": "手术等级"
+        },
+        {
+            "id": "Srhida000178",
+            "name": "术前诊断"
+        },
+        {
+            "id": "Srhida000179",
+            "name": "术中诊断"
+        },
+        {
+            "id": "Srhida000180",
+            "name": "麻醉方式"
+        },
+        {
+            "id": "Srhida000181",
+            "name": "手术经过"
+        },
+        {
+            "id": "Srhida000182",
+            "name": "失血量"
+        },
+        {
+            "id": "Srhida000183",
+            "name": "输血量"
+        },
+        {
+            "id": "Srhida000184",
+            "name": "手术用时"
+        },
+        {
+            "id": "Srhida000185",
+            "name": "医院名称"
+        },
+        {
+            "id": "Srhida000186",
+            "name": "医院代码"
+        },
+        {
+            "id": "Srhida000187",
+            "name": "医院等级"
+        },
+        {
+            "id": "Srhida000188",
+            "name": "科室代码"
+        },
+        {
+            "id": "Srhida000189",
+            "name": "科室名称"
+        },
+        {
+            "id": "Srhida000190",
+            "name": "检查报告时间"
+        },
+        {
+            "id": "Srhida000191",
+            "name": "报告申请时间"
+        },
+        {
+            "id": "Srhida000192",
+            "name": "检查号"
+        },
+        {
+            "id": "Srhida000193",
+            "name": "影像号"
+        },
+        {
+            "id": "Srhida000194",
+            "name": "放射号"
+        },
+        {
+            "id": "Srhida000195",
+            "name": "检验号"
+        },
+        {
+            "id": "Srhida000196",
+            "name": "病理号"
+        },
+        {
+            "id": "Srhida000197",
+            "name": "样本号"
+        },
+        {
+            "id": "Srhida000198",
+            "name": "样本种类"
+        },
+        {
+            "id": "Srhida000199",
+            "name": "报告名称"
+        },
+        {
+            "id": "Srhida000200",
+            "name": "超声号"
+        },
+        {
+            "id": "Srhida000201",
+            "name": "体检号"
+        },
+        {
+            "id": "Srhida000202",
+            "name": "病床号"
+        },
+        {
+            "id": "Srhida000203",
+            "name": "病房号"
+        },
+        {
+            "id": "Srhida000204",
+            "name": "内科体检信息"
+        },
+        {
+            "id": "Srhida000205",
+            "name": "外科体检信息"
+        },
+        {
+            "id": "Srhida000206",
+            "name": "口腔体检信息"
+        },
+        {
+            "id": "Srhida000207",
+            "name": "眼科体检信息"
+        },
+        {
+            "id": "Srhida000208",
+            "name": "耳鼻喉体检信息"
+        },
+        {
+            "id": "Srhida000209",
+            "name": "妇科体检信息"
+        },
+        {
+            "id": "Srhida000210",
+            "name": "临床诊断"
+        },
+        {
+            "id": "Srhida000211",
+            "name": "检查项目"
+        },
+        {
+            "id": "Srhida000212",
+            "name": "检查方法"
+        },
+        {
+            "id": "Srhida000213",
+            "name": "检查结论"
+        },
+        {
+            "id": "Srhida000214",
+            "name": "就诊时间"
+        },
+        {
+            "id": "Srhida000215",
+            "name": "诊断时间"
+        },
+        {
+            "id": "Srhida000216",
+            "name": "出院小结"
+        },
+        {
+            "id": "Srhida000217",
+            "name": "诊断意见"
+        },
+        {
+            "id": "Srhida000218",
+            "name": "入院记录"
+        },
+        {
+            "id": "Srhida000219",
+            "name": "入院时间"
+        },
+        {
+            "id": "Srhida000220",
+            "name": "出院记录"
+        },
+        {
+            "id": "Srhida000221",
+            "name": "出院时间"
+        },
+        {
+            "id": "Srhida000222",
+            "name": "诊疗经过"
+        },
+        {
+            "id": "Srhida000223",
+            "name": "复发日期"
+        },
+        {
+            "id": "Srhida000224",
+            "name": "观测天数"
+        },
+        {
+            "id": "Srhida000225",
+            "name": "愈合情况"
+        },
+        {
+            "id": "Srhida000226",
+            "name": "处理意见"
+        },
+        {
+            "id": "Srhida000227",
+            "name": "门诊随访要求"
+        },
+        {
+            "id": "Srhida000228",
+            "name": "死亡日期"
+        },
+        {
+            "id": "Srhida000229",
+            "name": "睡眠质量"
+        },
+        {
+            "id": "Srhida000230",
+            "name": "仪器信息"
+        },
+        {
+            "id": "Srhida000231",
+            "name": "治疗日期"
+        },
+        {
+            "id": "Srhida000232",
+            "name": "发病日期"
+        },
+        {
+            "id": "Srhida000233",
+            "name": "发病次数"
+        },
+        {
+            "id": "Srhida000234",
+            "name": "医师职称"
+        },
+        {
+            "id": "Srhida000235",
+            "name": "护士职称"
+        },
+        {
+            "id": "Srhida000236",
+            "name": "处方号"
+        },
+        {
+            "id": "Srhida000237",
+            "name": "信用风险评级"
+        },
+        {
+            "id": "Srhida000238",
+            "name": "信用等级"
+        },
+        {
+            "id": "Srhida000239",
+            "name": "验证码"
+        },
+        {
+            "id": "Srhida000245",
+            "name": "合同名称"
+        },
+        {
+            "id": "Srhida000246",
+            "name": "合同编号"
+        },
+        {
+            "id": "Srhida000247",
+            "name": "客户名称"
+        },
+        {
+            "id": "Srhida000248",
+            "name": "客户编号"
+        },
+        {
+            "id": "Srhida000249",
+            "name": "客户类型"
+        },
+        {
+            "id": "Srhida000250",
+            "name": "客户等级"
+        },
+        {
+            "id": "Srhida000252",
+            "name": "交易金额"
+        },
+        {
+            "id": "Srhida000253",
+            "name": "交易日期"
+        },
+        {
+            "id": "Srhida000254",
+            "name": "交易状态"
+        },
+        {
+            "id": "Srhida000255",
+            "name": "交易币种"
+        },
+        {
+            "id": "Srhida000256",
+            "name": "交易码"
+        },
+        {
+            "id": "Srhida000257",
+            "name": "交易流水号"
+        },
+        {
+            "id": "Srhida000268",
+            "name": "联系人"
+        },
+        {
+            "id": "Srhida000269",
+            "name": "联系电话"
+        },
+        {
+            "id": "Srhida000270",
+            "name": "资产名称"
+        },
+        {
+            "id": "Srhida000271",
+            "name": "资产编号"
+        },
+        {
+            "id": "Srhida000272",
+            "name": "资产类别"
+        },
+        {
+            "id": "Srhida000273",
+            "name": "设备名称"
+        },
+        {
+            "id": "Srhida000274",
+            "name": "设备类别"
+        },
+        {
+            "id": "Srhida000275",
+            "name": "设备编号"
+        },
+        {
+            "id": "Srhida000276",
+            "name": "设备型号"
+        },
+        {
+            "id": "Srhida000277",
+            "name": "设备生产厂商"
+        },
+        {
+            "id": "Srhida000278",
+            "name": "设备配置"
+        },
+        {
+            "id": "Srhida000279",
+            "name": "IPv4"
+        },
+        {
+            "id": "Srhida000280",
+            "name": "IPv6"
+        },
+        {
+            "id": "Srhida000281",
+            "name": "MEID"
+        },
+        {
+            "id": "Srhida000282",
+            "name": "IMEI"
+        },
+        {
+            "id": "Srhida000283",
+            "name": "IMSI"
+        },
+        {
+            "id": "Srhida000284",
+            "name": "MAC地址"
+        },
+        {
+            "id": "Srhida000286",
+            "name": "疫苗名称"
+        },
+        {
+            "id": "Srhida000287",
+            "name": "疫苗批号"
+        },
+        {
+            "id": "Srhida000288",
+            "name": "疫苗接种对象"
+        },
+        {
+            "id": "Srhida000300",
+            "name": "程序名称"
+        },
+        {
+            "id": "Srhida000301",
+            "name": "程序地址"
+        },
+        {
+            "id": "Srhida000302",
+            "name": "程序版本"
+        },
+        {
+            "id": "Srhida000303",
+            "name": "程序开发商"
+        },
+        {
+            "id": "Srhida000321",
+            "name": "专利名称"
+        },
+        {
+            "id": "Srhida000322",
+            "name": "专利申请号"
+        },
+        {
+            "id": "Srhida000323",
+            "name": "专利授权号"
+        },
+        {
+            "id": "Srhida000331",
+            "name": "证书名称"
+        },
+        {
+            "id": "Srhida000332",
+            "name": "证书编号"
+        },
+        {
+            "id": "Srhida000333",
+            "name": "发证机构"
+        },
+        {
+            "id": "Srhida000337",
+            "name": "职工类型"
+        },
+        {
+            "id": "Srhida000338",
+            "name": "支付账号"
+        }
+    ],
+    "JR/T 0197-2020 金融数据安全 数据安全分级指南": [
+        {
+            "id": "Srhida000001",
+            "name": "姓名"
+        },
+        {
+            "id": "Srhida000002",
+            "name": "脱敏姓名"
+        },
+        {
+            "id": "Srhida000003",
+            "name": "年龄"
+        },
+        {
+            "id": "Srhida000004",
+            "name": "出生日期"
+        },
+        {
+            "id": "Srhida000005",
+            "name": "性别"
+        },
+        {
+            "id": "Srhida000006",
+            "name": "民族"
+        },
+        {
+            "id": "Srhida000007",
+            "name": "籍贯"
+        },
+        {
+            "id": "Srhida000008",
+            "name": "国籍"
+        },
+        {
+            "id": "Srhida000009",
+            "name": "政治面貌"
+        },
+        {
+            "id": "Srhida000010",
+            "name": "婚姻状态"
+        },
+        {
+            "id": "Srhida000011",
+            "name": "生育情况"
+        },
+        {
+            "id": "Srhida000012",
+            "name": "宗教信仰"
+        },
+        {
+            "id": "Srhida000013",
+            "name": "证件类型"
+        },
+        {
+            "id": "Srhida000014",
+            "name": "证件有效期"
+        },
+        {
+            "id": "Srhida000015",
+            "name": "身份证号"
+        },
+        {
+            "id": "Srhida000016",
+            "name": "脱敏身份证号"
+        },
+        {
+            "id": "Srhida000017",
+            "name": "护照号"
+        },
+        {
+            "id": "Srhida000018",
+            "name": "出生证号"
+        },
+        {
+            "id": "Srhida000019",
+            "name": "居住证号"
+        },
+        {
+            "id": "Srhida000020",
+            "name": "社保卡号"
+        },
+        {
+            "id": "Srhida000021",
+            "name": "银行卡号"
+        },
+        {
+            "id": "Srhida000022",
+            "name": "脱敏银行卡号"
+        },
+        {
+            "id": "Srhida000023",
+            "name": "存折账号"
+        },
+        {
+            "id": "Srhida000024",
+            "name": "开户行名称"
+        },
+        {
+            "id": "Srhida000025",
+            "name": "开户行编码"
+        },
+        {
+            "id": "Srhida000026",
+            "name": "账户余额"
+        },
+        {
+            "id": "Srhida000027",
+            "name": "驾驶证编号"
+        },
+        {
+            "id": "Srhida000028",
+            "name": "港澳通行证号"
+        },
+        {
+            "id": "Srhida000029",
+            "name": "香港身份证号"
+        },
+        {
+            "id": "Srhida000030",
+            "name": "澳门身份证号"
+        },
+        {
+            "id": "Srhida000031",
+            "name": "台胞证号"
+        },
+        {
+            "id": "Srhida000032",
+            "name": "台湾身份证号"
+        },
+        {
+            "id": "Srhida000033",
+            "name": "军官证号"
+        },
+        {
+            "id": "Srhida000034",
+            "name": "健康卡号"
+        },
+        {
+            "id": "Srhida000035",
+            "name": "退休证号"
+        },
+        {
+            "id": "Srhida000036",
+            "name": "学位"
+        },
+        {
+            "id": "Srhida000037",
+            "name": "学历"
+        },
+        {
+            "id": "Srhida000038",
+            "name": "学校名称"
+        },
+        {
+            "id": "Srhida000039",
+            "name": "学校代码"
+        },
+        {
+            "id": "Srhida000041",
+            "name": "院系"
+        },
+        {
+            "id": "Srhida000042",
+            "name": "专业"
+        },
+        {
+            "id": "Srhida000043",
+            "name": "专业代码"
+        },
+        {
+            "id": "Srhida000044",
+            "name": "职业名称"
+        },
+        {
+            "id": "Srhida000045",
+            "name": "职业编码"
+        },
+        {
+            "id": "Srhida000046",
+            "name": "岗位名称"
+        },
+        {
+            "id": "Srhida000047",
+            "name": "岗位编码"
+        },
+        {
+            "id": "Srhida000049",
+            "name": "工号"
+        },
+        {
+            "id": "Srhida000050",
+            "name": "邮政编码"
+        },
+        {
+            "id": "Srhida000051",
+            "name": "手机号"
+        },
+        {
+            "id": "Srhida000053",
+            "name": "座机号"
+        },
+        {
+            "id": "Srhida000054",
+            "name": "邮箱"
+        },
+        {
+            "id": "Srhida000056",
+            "name": "QQ号"
+        },
+        {
+            "id": "Srhida000057",
+            "name": "微信号"
+        },
+        {
+            "id": "Srhida000058",
+            "name": "钉钉号"
+        },
+        {
+            "id": "Srhida000059",
+            "name": "微博账号"
+        },
+        {
+            "id": "Srhida000060",
+            "name": "地址"
+        },
+        {
+            "id": "Srhida000062",
+            "name": "家庭住址"
+        },
+        {
+            "id": "Srhida000063",
+            "name": "公司地址"
+        },
+        {
+            "id": "Srhida000078",
+            "name": "定位"
+        },
+        {
+            "id": "Srhida000079",
+            "name": "经纬度"
+        },
+        {
+            "id": "Srhida000084",
+            "name": "ABO血型"
+        },
+        {
+            "id": "Srhida000085",
+            "name": "Rh血型"
+        },
+        {
+            "id": "Srhida000086",
+            "name": "基因"
+        },
+        {
+            "id": "Srhida000087",
+            "name": "指纹"
+        },
+        {
+            "id": "Srhida000088",
+            "name": "掌纹"
+        },
+        {
+            "id": "Srhida000089",
+            "name": "声纹"
+        },
+        {
+            "id": "Srhida000090",
+            "name": "虹膜"
+        },
+        {
+            "id": "Srhida000091",
+            "name": "人脸"
+        },
+        {
+            "id": "Srhida000092",
+            "name": "身高"
+        },
+        {
+            "id": "Srhida000093",
+            "name": "体重"
+        },
+        {
+            "id": "Srhida000094",
+            "name": "腰围"
+        },
+        {
+            "id": "Srhida000095",
+            "name": "体温"
+        },
+        {
+            "id": "Srhida000096",
+            "name": "脉搏"
+        },
+        {
+            "id": "Srhida000097",
+            "name": "心率"
+        },
+        {
+            "id": "Srhida000098",
+            "name": "呼吸"
+        },
+        {
+            "id": "Srhida000099",
+            "name": "血压"
+        },
+        {
+            "id": "Srhida000100",
+            "name": "血糖"
+        },
+        {
+            "id": "Srhida000101",
+            "name": "血脂"
+        },
+        {
+            "id": "Srhida000102",
+            "name": "视力"
+        },
+        {
+            "id": "Srhida000103",
+            "name": "肺活量"
+        },
+        {
+            "id": "Srhida000104",
+            "name": "体质指数"
+        },
+        {
+            "id": "Srhida000105",
+            "name": "统一社会信用代码"
+        },
+        {
+            "id": "Srhida000106",
+            "name": "经营状态"
+        },
+        {
+            "id": "Srhida000107",
+            "name": "公司名称"
+        },
+        {
+            "id": "Srhida000108",
+            "name": "公司编码"
+        },
+        {
+            "id": "Srhida000109",
+            "name": "组织名称"
+        },
+        {
+            "id": "Srhida000110",
+            "name": "组织编码"
+        },
+        {
+            "id": "Srhida000111",
+            "name": "法人信息"
+        },
+        {
+            "id": "Srhida000112",
+            "name": "部门名称"
+        },
+        {
+            "id": "Srhida000113",
+            "name": "部门编码"
+        },
+        {
+            "id": "Srhida000117",
+            "name": "密码（明文）"
+        },
+        {
+            "id": "Srhida000118",
+            "name": "密码（密文）"
+        },
+        {
+            "id": "Srhida000119",
+            "name": "车牌号"
+        },
+        {
+            "id": "Srhida000120",
+            "name": "车架号"
+        },
+        {
+            "id": "Srhida000121",
+            "name": "车辆品牌"
+        },
+        {
+            "id": "Srhida000122",
+            "name": "车辆类型"
+        },
+        {
+            "id": "Srhida000123",
+            "name": "收入"
+        },
+        {
+            "id": "Srhida000124",
+            "name": "薪资"
+        },
+        {
+            "id": "Srhida000125",
+            "name": "费用"
+        },
+        {
+            "id": "Srhida000126",
+            "name": "利润"
+        },
+        {
+            "id": "Srhida000127",
+            "name": "成本"
+        },
+        {
+            "id": "Srhida000128",
+            "name": "预算"
+        },
+        {
+            "id": "Srhida000129",
+            "name": "支付宝账号"
+        },
+        {
+            "id": "Srhida000130",
+            "name": "支付方式"
+        },
+        {
+            "id": "Srhida000131",
+            "name": "发票号"
+        },
+        {
+            "id": "Srhida000132",
+            "name": "税率"
+        },
+        {
+            "id": "Srhida000133",
+            "name": "保单号"
+        },
+        {
+            "id": "Srhida000134",
+            "name": "投保单号"
+        },
+        {
+            "id": "Srhida000135",
+            "name": "保险公司"
+        },
+        {
+            "id": "Srhida000136",
+            "name": "保险名称"
+        },
+        {
+            "id": "Srhida000137",
+            "name": "保费"
+        },
+        {
+            "id": "Srhida000138",
+            "name": "投保人"
+        },
+        {
+            "id": "Srhida000139",
+            "name": "被保人"
+        },
+        {
+            "id": "Srhida000141",
+            "name": "执业证书编号"
+        },
+        {
+            "id": "Srhida000142",
+            "name": "执业类别"
+        },
+        {
+            "id": "Srhida000143",
+            "name": "执业范围"
+        },
+        {
+            "id": "Srhida000145",
+            "name": "住院号"
+        },
+        {
+            "id": "Srhida000146",
+            "name": "门诊号"
+        },
+        {
+            "id": "Srhida000148",
+            "name": "吸烟史"
+        },
+        {
+            "id": "Srhida000149",
+            "name": "饮酒史"
+        },
+        {
+            "id": "Srhida000150",
+            "name": "月经史"
+        },
+        {
+            "id": "Srhida000151",
+            "name": "婚育史"
+        },
+        {
+            "id": "Srhida000152",
+            "name": "家族史"
+        },
+        {
+            "id": "Srhida000153",
+            "name": "现病史"
+        },
+        {
+            "id": "Srhida000154",
+            "name": "既往史"
+        },
+        {
+            "id": "Srhida000155",
+            "name": "过敏史"
+        },
+        {
+            "id": "Srhida000156",
+            "name": "传染病史"
+        },
+        {
+            "id": "Srhida000157",
+            "name": "性病史"
+        },
+        {
+            "id": "Srhida000158",
+            "name": "预防接种史"
+        },
+        {
+            "id": "Srhida000159",
+            "name": "手术史"
+        },
+        {
+            "id": "Srhida000160",
+            "name": "疾病名称"
+        },
+        {
+            "id": "Srhida000161",
+            "name": "疾病症状"
+        },
+        {
+            "id": "Srhida000169",
+            "name": "主诉"
+        },
+        {
+            "id": "Srhida000170",
+            "name": "医嘱"
+        },
+        {
+            "id": "Srhida000171",
+            "name": "检查时间"
+        },
+        {
+            "id": "Srhida000172",
+            "name": "辅助检查"
+        },
+        {
+            "id": "Srhida000173",
+            "name": "体格检查"
+        },
+        {
+            "id": "Srhida000174",
+            "name": "专科检查"
+        },
+        {
+            "id": "Srhida000175",
+            "name": "精神检查"
+        },
+        {
+            "id": "Srhida000176",
+            "name": "手术名称"
+        },
+        {
+            "id": "Srhida000177",
+            "name": "手术等级"
+        },
+        {
+            "id": "Srhida000178",
+            "name": "术前诊断"
+        },
+        {
+            "id": "Srhida000179",
+            "name": "术中诊断"
+        },
+        {
+            "id": "Srhida000180",
+            "name": "麻醉方式"
+        },
+        {
+            "id": "Srhida000181",
+            "name": "手术经过"
+        },
+        {
+            "id": "Srhida000182",
+            "name": "失血量"
+        },
+        {
+            "id": "Srhida000183",
+            "name": "输血量"
+        },
+        {
+            "id": "Srhida000184",
+            "name": "手术用时"
+        },
+        {
+            "id": "Srhida000204",
+            "name": "内科体检信息"
+        },
+        {
+            "id": "Srhida000205",
+            "name": "外科体检信息"
+        },
+        {
+            "id": "Srhida000206",
+            "name": "口腔体检信息"
+        },
+        {
+            "id": "Srhida000207",
+            "name": "眼科体检信息"
+        },
+        {
+            "id": "Srhida000208",
+            "name": "耳鼻喉体检信息"
+        },
+        {
+            "id": "Srhida000209",
+            "name": "妇科体检信息"
+        },
+        {
+            "id": "Srhida000218",
+            "name": "入院记录"
+        },
+        {
+            "id": "Srhida000220",
+            "name": "出院记录"
+        },
+        {
+            "id": "Srhida000228",
+            "name": "死亡日期"
+        },
+        {
+            "id": "Srhida000237",
+            "name": "信用风险评级"
+        },
+        {
+            "id": "Srhida000238",
+            "name": "信用等级"
+        },
+        {
+            "id": "Srhida000239",
+            "name": "验证码"
+        },
+        {
+            "id": "Srhida000241",
+            "name": "订单编号"
+        },
+        {
+            "id": "Srhida000242",
+            "name": "订单金额"
+        },
+        {
+            "id": "Srhida000243",
+            "name": "订单时间"
+        },
+        {
+            "id": "Srhida000244",
+            "name": "价格"
+        },
+        {
+            "id": "Srhida000245",
+            "name": "合同名称"
+        },
+        {
+            "id": "Srhida000246",
+            "name": "合同编号"
+        },
+        {
+            "id": "Srhida000247",
+            "name": "客户名称"
+        },
+        {
+            "id": "Srhida000248",
+            "name": "客户编号"
+        },
+        {
+            "id": "Srhida000249",
+            "name": "客户类型"
+        },
+        {
+            "id": "Srhida000250",
+            "name": "客户等级"
+        },
+        {
+            "id": "Srhida000251",
+            "name": "客户凭证"
+        },
+        {
+            "id": "Srhida000252",
+            "name": "交易金额"
+        },
+        {
+            "id": "Srhida000253",
+            "name": "交易日期"
+        },
+        {
+            "id": "Srhida000254",
+            "name": "交易状态"
+        },
+        {
+            "id": "Srhida000255",
+            "name": "交易币种"
+        },
+        {
+            "id": "Srhida000256",
+            "name": "交易码"
+        },
+        {
+            "id": "Srhida000257",
+            "name": "交易流水号"
+        },
+        {
+            "id": "Srhida000258",
+            "name": "商户名称"
+        },
+        {
+            "id": "Srhida000259",
+            "name": "商户编码"
+        },
+        {
+            "id": "Srhida000260",
+            "name": "商户地址"
+        },
+        {
+            "id": "Srhida000261",
+            "name": "商品名称"
+        },
+        {
+            "id": "Srhida000262",
+            "name": "商品编号"
+        },
+        {
+            "id": "Srhida000267",
+            "name": "商品类型"
+        },
+        {
+            "id": "Srhida000268",
+            "name": "联系人"
+        },
+        {
+            "id": "Srhida000269",
+            "name": "联系电话"
+        },
+        {
+            "id": "Srhida000270",
+            "name": "资产名称"
+        },
+        {
+            "id": "Srhida000271",
+            "name": "资产编号"
+        },
+        {
+            "id": "Srhida000272",
+            "name": "资产类别"
+        },
+        {
+            "id": "Srhida000273",
+            "name": "设备名称"
+        },
+        {
+            "id": "Srhida000274",
+            "name": "设备类别"
+        },
+        {
+            "id": "Srhida000275",
+            "name": "设备编号"
+        },
+        {
+            "id": "Srhida000276",
+            "name": "设备型号"
+        },
+        {
+            "id": "Srhida000277",
+            "name": "设备生产厂商"
+        },
+        {
+            "id": "Srhida000278",
+            "name": "设备配置"
+        },
+        {
+            "id": "Srhida000279",
+            "name": "IPv4"
+        },
+        {
+            "id": "Srhida000280",
+            "name": "IPv6"
+        },
+        {
+            "id": "Srhida000281",
+            "name": "MEID"
+        },
+        {
+            "id": "Srhida000282",
+            "name": "IMEI"
+        },
+        {
+            "id": "Srhida000283",
+            "name": "IMSI"
+        },
+        {
+            "id": "Srhida000284",
+            "name": "MAC地址"
+        },
+        {
+            "id": "Srhida000285",
+            "name": "APN"
+        },
+        {
+            "id": "Srhida000289",
+            "name": "不动产单元号"
+        },
+        {
+            "id": "Srhida000290",
+            "name": "房产证号"
+        },
+        {
+            "id": "Srhida000291",
+            "name": "贷款保证金"
+        },
+        {
+            "id": "Srhida000292",
+            "name": "贷款类型"
+        },
+        {
+            "id": "Srhida000293",
+            "name": "贷款金额"
+        },
+        {
+            "id": "Srhida000294",
+            "name": "利息"
+        },
+        {
+            "id": "Srhida000295",
+            "name": "LEI"
+        },
+        {
+            "id": "Srhida000296",
+            "name": "币种"
+        },
+        {
+            "id": "Srhida000297",
+            "name": "银行名称"
+        },
+        {
+            "id": "Srhida000298",
+            "name": "金融机构编码"
+        },
+        {
+            "id": "Srhida000299",
+            "name": "支付业务许可证号"
+        },
+        {
+            "id": "Srhida000300",
+            "name": "程序名称"
+        },
+        {
+            "id": "Srhida000301",
+            "name": "程序地址"
+        },
+        {
+            "id": "Srhida000302",
+            "name": "程序版本"
+        },
+        {
+            "id": "Srhida000303",
+            "name": "程序开发商"
+        },
+        {
+            "id": "Srhida000331",
+            "name": "证书名称"
+        },
+        {
+            "id": "Srhida000332",
+            "name": "证书编号"
+        },
+        {
+            "id": "Srhida000333",
+            "name": "发证机构"
+        },
+        {
+            "id": "Srhida000335",
+            "name": "黑名单"
+        },
+        {
+            "id": "Srhida000336",
+            "name": "白名单"
+        },
+        {
+            "id": "Srhida000337",
+            "name": "职工类型"
+        },
+        {
+            "id": "Srhida000338",
+            "name": "支付账号"
+        }
+    ],
+    "T/SZHEIS 003-2024 高等教育数据安全分类分级指南": [
+        {
+            "id": "Srhida000001",
+            "name": "姓名"
+        },
+        {
+            "id": "Srhida000002",
+            "name": "脱敏姓名"
+        },
+        {
+            "id": "Srhida000003",
+            "name": "年龄"
+        },
+        {
+            "id": "Srhida000004",
+            "name": "出生日期"
+        },
+        {
+            "id": "Srhida000005",
+            "name": "性别"
+        },
+        {
+            "id": "Srhida000006",
+            "name": "民族"
+        },
+        {
+            "id": "Srhida000007",
+            "name": "籍贯"
+        },
+        {
+            "id": "Srhida000008",
+            "name": "国籍"
+        },
+        {
+            "id": "Srhida000009",
+            "name": "政治面貌"
+        },
+        {
+            "id": "Srhida000010",
+            "name": "婚姻状态"
+        },
+        {
+            "id": "Srhida000011",
+            "name": "生育情况"
+        },
+        {
+            "id": "Srhida000012",
+            "name": "宗教信仰"
+        },
+        {
+            "id": "Srhida000013",
+            "name": "证件类型"
+        },
+        {
+            "id": "Srhida000014",
+            "name": "证件有效期"
+        },
+        {
+            "id": "Srhida000015",
+            "name": "身份证号码"
+        },
+        {
+            "id": "Srhida000016",
+            "name": "脱敏身份证号"
+        },
+        {
+            "id": "Srhida000017",
+            "name": "护照号"
+        },
+        {
+            "id": "Srhida000018",
+            "name": "出生证号"
+        },
+        {
+            "id": "Srhida000019",
+            "name": "居住证号"
+        },
+        {
+            "id": "Srhida000020",
+            "name": "社保卡号"
+        },
+        {
+            "id": "Srhida000021",
+            "name": "银行卡号"
+        },
+        {
+            "id": "Srhida000022",
+            "name": "脱敏银行卡号"
+        },
+        {
+            "id": "Srhida000023",
+            "name": "存折账号"
+        },
+        {
+            "id": "Srhida000024",
+            "name": "开户行名称"
+        },
+        {
+            "id": "Srhida000025",
+            "name": "开户行编码"
+        },
+        {
+            "id": "Srhida000026",
+            "name": "账户余额"
+        },
+        {
+            "id": "Srhida000027",
+            "name": "驾驶证编号"
+        },
+        {
+            "id": "Srhida000028",
+            "name": "港澳通行证号"
+        },
+        {
+            "id": "Srhida000029",
+            "name": "香港身份证号"
+        },
+        {
+            "id": "Srhida000030",
+            "name": "澳门身份证号"
+        },
+        {
+            "id": "Srhida000031",
+            "name": "台胞证号"
+        },
+        {
+            "id": "Srhida000032",
+            "name": "台湾身份证号"
+        },
+        {
+            "id": "Srhida000033",
+            "name": "军官证号"
+        },
+        {
+            "id": "Srhida000034",
+            "name": "健康卡号"
+        },
+        {
+            "id": "Srhida000035",
+            "name": "退休证号"
+        },
+        {
+            "id": "Srhida000036",
+            "name": "学位"
+        },
+        {
+            "id": "Srhida000037",
+            "name": "学历"
+        },
+        {
+            "id": "Srhida000038",
+            "name": "学校名称"
+        },
+        {
+            "id": "Srhida000039",
+            "name": "学校代码"
+        },
+        {
+            "id": "Srhida000040",
+            "name": "学校类别"
+        },
+        {
+            "id": "Srhida000041",
+            "name": "院系"
+        },
+        {
+            "id": "Srhida000042",
+            "name": "专业"
+        },
+        {
+            "id": "Srhida000043",
+            "name": "专业代码"
+        },
+        {
+            "id": "Srhida000044",
+            "name": "职业名称"
+        },
+        {
+            "id": "Srhida000045",
+            "name": "职业编码"
+        },
+        {
+            "id": "Srhida000046",
+            "name": "岗位名称"
+        },
+        {
+            "id": "Srhida000047",
+            "name": "岗位编码"
+        },
+        {
+            "id": "Srhida000048",
+            "name": "教师职称"
+        },
+        {
+            "id": "Srhida000049",
+            "name": "工号"
+        },
+        {
+            "id": "Srhida000050",
+            "name": "邮政编码"
+        },
+        {
+            "id": "Srhida000051",
+            "name": "手机号"
+        },
+        {
+            "id": "Srhida000053",
+            "name": "座机号"
+        },
+        {
+            "id": "Srhida000054",
+            "name": "邮箱"
+        },
+        {
+            "id": "Srhida000056",
+            "name": "QQ号"
+        },
+        {
+            "id": "Srhida000057",
+            "name": "微信号"
+        },
+        {
+            "id": "Srhida000058",
+            "name": "钉钉号"
+        },
+        {
+            "id": "Srhida000059",
+            "name": "微博账号"
+        },
+        {
+            "id": "Srhida000060",
+            "name": "地址"
+        },
+        {
+            "id": "Srhida000062",
+            "name": "家庭住址"
+        },
+        {
+            "id": "Srhida000066",
+            "name": "国家"
+        },
+        {
+            "id": "Srhida000067",
+            "name": "国家编码"
+        },
+        {
+            "id": "Srhida000068",
+            "name": "省份"
+        },
+        {
+            "id": "Srhida000069",
+            "name": "省份编码"
+        },
+        {
+            "id": "Srhida000070",
+            "name": "城市"
+        },
+        {
+            "id": "Srhida000071",
+            "name": "城市编码"
+        },
+        {
+            "id": "Srhida000072",
+            "name": "区县"
+        },
+        {
+            "id": "Srhida000073",
+            "name": "区县编码"
+        },
+        {
+            "id": "Srhida000074",
+            "name": "乡镇"
+        },
+        {
+            "id": "Srhida000075",
+            "name": "乡镇编码"
+        },
+        {
+            "id": "Srhida000076",
+            "name": "道路"
+        },
+        {
+            "id": "Srhida000077",
+            "name": "道路编码"
+        },
+        {
+            "id": "Srhida000078",
+            "name": "定位"
+        },
+        {
+            "id": "Srhida000079",
+            "name": "经纬度"
+        },
+        {
+            "id": "Srhida000084",
+            "name": "ABO血型"
+        },
+        {
+            "id": "Srhida000085",
+            "name": "Rh血型"
+        },
+        {
+            "id": "Srhida000086",
+            "name": "基因"
+        },
+        {
+            "id": "Srhida000087",
+            "name": "指纹"
+        },
+        {
+            "id": "Srhida000088",
+            "name": "掌纹"
+        },
+        {
+            "id": "Srhida000089",
+            "name": "声纹"
+        },
+        {
+            "id": "Srhida000090",
+            "name": "虹膜"
+        },
+        {
+            "id": "Srhida000091",
+            "name": "人脸"
+        },
+        {
+            "id": "Srhida000092",
+            "name": "身高"
+        },
+        {
+            "id": "Srhida000093",
+            "name": "体重"
+        },
+        {
+            "id": "Srhida000094",
+            "name": "腰围"
+        },
+        {
+            "id": "Srhida000095",
+            "name": "体温"
+        },
+        {
+            "id": "Srhida000096",
+            "name": "脉搏"
+        },
+        {
+            "id": "Srhida000097",
+            "name": "心率"
+        },
+        {
+            "id": "Srhida000098",
+            "name": "呼吸"
+        },
+        {
+            "id": "Srhida000099",
+            "name": "血压"
+        },
+        {
+            "id": "Srhida000100",
+            "name": "血糖"
+        },
+        {
+            "id": "Srhida000101",
+            "name": "血脂"
+        },
+        {
+            "id": "Srhida000102",
+            "name": "视力"
+        },
+        {
+            "id": "Srhida000103",
+            "name": "肺活量"
+        },
+        {
+            "id": "Srhida000104",
+            "name": "体质指数"
+        },
+        {
+            "id": "Srhida000105",
+            "name": "统一社会信用代码"
+        },
+        {
+            "id": "Srhida000106",
+            "name": "经营状态"
+        },
+        {
+            "id": "Srhida000107",
+            "name": "公司名称"
+        },
+        {
+            "id": "Srhida000108",
+            "name": "公司编码"
+        },
+        {
+            "id": "Srhida000109",
+            "name": "组织名称"
+        },
+        {
+            "id": "Srhida000110",
+            "name": "组织编码"
+        },
+        {
+            "id": "Srhida000111",
+            "name": "法人信息"
+        },
+        {
+            "id": "Srhida000112",
+            "name": "部门名称"
+        },
+        {
+            "id": "Srhida000113",
+            "name": "部门编码"
+        },
+        {
+            "id": "Srhida000114",
+            "name": "用户名"
+        },
+        {
+            "id": "Srhida000115",
+            "name": "用户编码"
+        },
+        {
+            "id": "Srhida000116",
+            "name": "用户类型"
+        },
+        {
+            "id": "Srhida000117",
+            "name": "密码（明文）"
+        },
+        {
+            "id": "Srhida000118",
+            "name": "密码（密文）"
+        },
+        {
+            "id": "Srhida000119",
+            "name": "车牌号"
+        },
+        {
+            "id": "Srhida000120",
+            "name": "车架号"
+        },
+        {
+            "id": "Srhida000121",
+            "name": "车辆品牌"
+        },
+        {
+            "id": "Srhida000122",
+            "name": "车辆类型"
+        },
+        {
+            "id": "Srhida000123",
+            "name": "收入"
+        },
+        {
+            "id": "Srhida000124",
+            "name": "薪资"
+        },
+        {
+            "id": "Srhida000125",
+            "name": "费用"
+        },
+        {
+            "id": "Srhida000128",
+            "name": "预算"
+        },
+        {
+            "id": "Srhida000131",
+            "name": "发票号"
+        },
+        {
+            "id": "Srhida000132",
+            "name": "税率"
+        },
+        {
+            "id": "Srhida000133",
+            "name": "保单号"
+        },
+        {
+            "id": "Srhida000134",
+            "name": "投保单号"
+        },
+        {
+            "id": "Srhida000135",
+            "name": "保险公司"
+        },
+        {
+            "id": "Srhida000136",
+            "name": "保险名称"
+        },
+        {
+            "id": "Srhida000137",
+            "name": "保费"
+        },
+        {
+            "id": "Srhida000138",
+            "name": "投保人"
+        },
+        {
+            "id": "Srhida000139",
+            "name": "被保人"
+        },
+        {
+            "id": "Srhida000141",
+            "name": "执业证书编号"
+        },
+        {
+            "id": "Srhida000142",
+            "name": "执业类别"
+        },
+        {
+            "id": "Srhida000143",
+            "name": "执业范围"
+        },
+        {
+            "id": "Srhida000237",
+            "name": "信用风险评级"
+        },
+        {
+            "id": "Srhida000238",
+            "name": "信用等级"
+        },
+        {
+            "id": "Srhida000239",
+            "name": "验证码"
+        },
+        {
+            "id": "Srhida000241",
+            "name": "订单编号"
+        },
+        {
+            "id": "Srhida000242",
+            "name": "订单金额"
+        },
+        {
+            "id": "Srhida000243",
+            "name": "订单时间"
+        },
+        {
+            "id": "Srhida000244",
+            "name": "价格"
+        },
+        {
+            "id": "Srhida000245",
+            "name": "合同名称"
+        },
+        {
+            "id": "Srhida000246",
+            "name": "合同编号"
+        },
+        {
+            "id": "Srhida000252",
+            "name": "交易金额"
+        },
+        {
+            "id": "Srhida000253",
+            "name": "交易日期"
+        },
+        {
+            "id": "Srhida000254",
+            "name": "交易状态"
+        },
+        {
+            "id": "Srhida000255",
+            "name": "交易币种"
+        },
+        {
+            "id": "Srhida000256",
+            "name": "交易码"
+        },
+        {
+            "id": "Srhida000257",
+            "name": "交易流水号"
+        },
+        {
+            "id": "Srhida000268",
+            "name": "联系人"
+        },
+        {
+            "id": "Srhida000269",
+            "name": "联系电话"
+        },
+        {
+            "id": "Srhida000270",
+            "name": "资产名称"
+        },
+        {
+            "id": "Srhida000271",
+            "name": "资产编号"
+        },
+        {
+            "id": "Srhida000272",
+            "name": "资产类别"
+        },
+        {
+            "id": "Srhida000273",
+            "name": "设备名称"
+        },
+        {
+            "id": "Srhida000274",
+            "name": "设备类别"
+        },
+        {
+            "id": "Srhida000275",
+            "name": "设备编号"
+        },
+        {
+            "id": "Srhida000276",
+            "name": "设备型号"
+        },
+        {
+            "id": "Srhida000277",
+            "name": "设备生产厂商"
+        },
+        {
+            "id": "Srhida000278",
+            "name": "设备配置"
+        },
+        {
+            "id": "Srhida000279",
+            "name": "IPv4"
+        },
+        {
+            "id": "Srhida000280",
+            "name": "IPv6"
+        },
+        {
+            "id": "Srhida000281",
+            "name": "MEID"
+        },
+        {
+            "id": "Srhida000282",
+            "name": "IMEI"
+        },
+        {
+            "id": "Srhida000283",
+            "name": "IMSI"
+        },
+        {
+            "id": "Srhida000284",
+            "name": "MAC地址"
+        },
+        {
+            "id": "Srhida000285",
+            "name": "APN"
+        },
+        {
+            "id": "Srhida000289",
+            "name": "不动产单元号"
+        },
+        {
+            "id": "Srhida000290",
+            "name": "房产证号"
+        },
+        {
+            "id": "Srhida000291",
+            "name": "贷款保证金"
+        },
+        {
+            "id": "Srhida000292",
+            "name": "贷款类型"
+        },
+        {
+            "id": "Srhida000293",
+            "name": "贷款金额"
+        },
+        {
+            "id": "Srhida000294",
+            "name": "利息"
+        },
+        {
+            "id": "Srhida000295",
+            "name": "LEI"
+        },
+        {
+            "id": "Srhida000296",
+            "name": "币种"
+        },
+        {
+            "id": "Srhida000297",
+            "name": "银行名称"
+        },
+        {
+            "id": "Srhida000300",
+            "name": "程序名称"
+        },
+        {
+            "id": "Srhida000301",
+            "name": "程序地址"
+        },
+        {
+            "id": "Srhida000302",
+            "name": "程序版本"
+        },
+        {
+            "id": "Srhida000303",
+            "name": "程序开发商"
+        },
+        {
+            "id": "Srhida000304",
+            "name": "课程名称"
+        },
+        {
+            "id": "Srhida000305",
+            "name": "课程编号"
+        },
+        {
+            "id": "Srhida000306",
+            "name": "课程类别"
+        },
+        {
+            "id": "Srhida000307",
+            "name": "学号"
+        },
+        {
+            "id": "Srhida000308",
+            "name": "学时"
+        },
+        {
+            "id": "Srhida000309",
+            "name": "学分"
+        },
+        {
+            "id": "Srhida000310",
+            "name": "成绩"
+        },
+        {
+            "id": "Srhida000311",
+            "name": "学科评估等级"
+        },
+        {
+            "id": "Srhida000312",
+            "name": "学科门类"
+        },
+        {
+            "id": "Srhida000313",
+            "name": "专业设置时间"
+        },
+        {
+            "id": "Srhida000314",
+            "name": "班级名称"
+        },
+        {
+            "id": "Srhida000315",
+            "name": "教材名称"
+        },
+        {
+            "id": "Srhida000316",
+            "name": "教材编号"
+        },
+        {
+            "id": "Srhida000317",
+            "name": "教材编写单位"
+        },
+        {
+            "id": "Srhida000318",
+            "name": "教材出版单位"
+        },
+        {
+            "id": "Srhida000319",
+            "name": "社团名称"
+        },
+        {
+            "id": "Srhida000320",
+            "name": "社团编号"
+        },
+        {
+            "id": "Srhida000321",
+            "name": "专利名称"
+        },
+        {
+            "id": "Srhida000322",
+            "name": "专利申请号"
+        },
+        {
+            "id": "Srhida000323",
+            "name": "专利授权号"
+        },
+        {
+            "id": "Srhida000331",
+            "name": "证书名称"
+        },
+        {
+            "id": "Srhida000332",
+            "name": "证书编号"
+        },
+        {
+            "id": "Srhida000333",
+            "name": "发证机构"
+        },
+        {
+            "id": "Srhida000334",
+            "name": "就业单位"
+        },
+        {
+            "id": "Srhida000335",
+            "name": "黑名单"
+        },
+        {
+            "id": "Srhida000336",
+            "name": "白名单"
+        },
+        {
+            "id": "Srhida000337",
+            "name": "职工类型"
+        }
+    ],
+    "卫生健康行业数据分类分级指南": [
+        {
+            "id": "Srhida000001",
+            "name": "姓名"
+        },
+        {
+            "id": "Srhida000002",
+            "name": "脱敏姓名"
+        },
+        {
+            "id": "Srhida000003",
+            "name": "年龄"
+        },
+        {
+            "id": "Srhida000004",
+            "name": "出生日期"
+        },
+        {
+            "id": "Srhida000005",
+            "name": "性别"
+        },
+        {
+            "id": "Srhida000006",
+            "name": "民族"
+        },
+        {
+            "id": "Srhida000007",
+            "name": "籍贯"
+        },
+        {
+            "id": "Srhida000008",
+            "name": "国籍"
+        },
+        {
+            "id": "Srhida000009",
+            "name": "政治面貌"
+        },
+        {
+            "id": "Srhida000010",
+            "name": "婚姻状态"
+        },
+        {
+            "id": "Srhida000011",
+            "name": "生育情况"
+        },
+        {
+            "id": "Srhida000012",
+            "name": "宗教信仰"
+        },
+        {
+            "id": "Srhida000013",
+            "name": "证件类型"
+        },
+        {
+            "id": "Srhida000014",
+            "name": "证件有效期"
+        },
+        {
+            "id": "Srhida000015",
+            "name": "身份证号码"
+        },
+        {
+            "id": "Srhida000016",
+            "name": "脱敏身份证号"
+        },
+        {
+            "id": "Srhida000017",
+            "name": "护照号"
+        },
+        {
+            "id": "Srhida000018",
+            "name": "出生证号"
+        },
+        {
+            "id": "Srhida000019",
+            "name": "居住证号"
+        },
+        {
+            "id": "Srhida000020",
+            "name": "社保卡号"
+        },
+        {
+            "id": "Srhida000021",
+            "name": "银行卡号"
+        },
+        {
+            "id": "Srhida000022",
+            "name": "脱敏银行卡号"
+        },
+        {
+            "id": "Srhida000023",
+            "name": "存折账号"
+        },
+        {
+            "id": "Srhida000024",
+            "name": "开户行名称"
+        },
+        {
+            "id": "Srhida000025",
+            "name": "开户行编码"
+        },
+        {
+            "id": "Srhida000026",
+            "name": "账户余额"
+        },
+        {
+            "id": "Srhida000027",
+            "name": "驾驶证编号"
+        },
+        {
+            "id": "Srhida000028",
+            "name": "港澳通行证号"
+        },
+        {
+            "id": "Srhida000029",
+            "name": "香港身份证号"
+        },
+        {
+            "id": "Srhida000030",
+            "name": "澳门身份证号"
+        },
+        {
+            "id": "Srhida000031",
+            "name": "台胞证号"
+        },
+        {
+            "id": "Srhida000032",
+            "name": "台湾身份证号"
+        },
+        {
+            "id": "Srhida000033",
+            "name": "军官证号"
+        },
+        {
+            "id": "Srhida000034",
+            "name": "健康卡号"
+        },
+        {
+            "id": "Srhida000035",
+            "name": "退休证号"
+        },
+        {
+            "id": "Srhida000036",
+            "name": "学位"
+        },
+        {
+            "id": "Srhida000037",
+            "name": "学历"
+        },
+        {
+            "id": "Srhida000038",
+            "name": "学校名称"
+        },
+        {
+            "id": "Srhida000039",
+            "name": "学校代码"
+        },
+        {
+            "id": "Srhida000040",
+            "name": "学校类别"
+        },
+        {
+            "id": "Srhida000041",
+            "name": "院系"
+        },
+        {
+            "id": "Srhida000042",
+            "name": "专业"
+        },
+        {
+            "id": "Srhida000043",
+            "name": "专业代码"
+        },
+        {
+            "id": "Srhida000044",
+            "name": "职业名称"
+        },
+        {
+            "id": "Srhida000045",
+            "name": "职业编码"
+        },
+        {
+            "id": "Srhida000046",
+            "name": "岗位名称"
+        },
+        {
+            "id": "Srhida000047",
+            "name": "岗位编码"
+        },
+        {
+            "id": "Srhida000049",
+            "name": "工号"
+        },
+        {
+            "id": "Srhida000050",
+            "name": "邮政编码"
+        },
+        {
+            "id": "Srhida000051",
+            "name": "手机号"
+        },
+        {
+            "id": "Srhida000052",
+            "name": "脱敏手机号"
+        },
+        {
+            "id": "Srhida000053",
+            "name": "座机号"
+        },
+        {
+            "id": "Srhida000054",
+            "name": "邮箱"
+        },
+        {
+            "id": "Srhida000055",
+            "name": "脱敏邮箱"
+        },
+        {
+            "id": "Srhida000056",
+            "name": "QQ号"
+        },
+        {
+            "id": "Srhida000057",
+            "name": "微信号"
+        },
+        {
+            "id": "Srhida000058",
+            "name": "钉钉号"
+        },
+        {
+            "id": "Srhida000059",
+            "name": "微博账号"
+        },
+        {
+            "id": "Srhida000060",
+            "name": "地址"
+        },
+        {
+            "id": "Srhida000061",
+            "name": "脱敏地址"
+        },
+        {
+            "id": "Srhida000062",
+            "name": "家庭住址"
+        },
+        {
+            "id": "Srhida000063",
+            "name": "公司地址"
+        },
+        {
+            "id": "Srhida000078",
+            "name": "定位"
+        },
+        {
+            "id": "Srhida000079",
+            "name": "经纬度"
+        },
+        {
+            "id": "Srhida000080",
+            "name": "海拔"
+        },
+        {
+            "id": "Srhida000081",
+            "name": "气温"
+        },
+        {
+            "id": "Srhida000082",
+            "name": "降水"
+        },
+        {
+            "id": "Srhida000083",
+            "name": "日照"
+        },
+        {
+            "id": "Srhida000084",
+            "name": "ABO血型"
+        },
+        {
+            "id": "Srhida000085",
+            "name": "Rh血型"
+        },
+        {
+            "id": "Srhida000086",
+            "name": "基因"
+        },
+        {
+            "id": "Srhida000087",
+            "name": "指纹"
+        },
+        {
+            "id": "Srhida000088",
+            "name": "掌纹"
+        },
+        {
+            "id": "Srhida000089",
+            "name": "声纹"
+        },
+        {
+            "id": "Srhida000090",
+            "name": "虹膜"
+        },
+        {
+            "id": "Srhida000091",
+            "name": "人脸"
+        },
+        {
+            "id": "Srhida000092",
+            "name": "身高"
+        },
+        {
+            "id": "Srhida000093",
+            "name": "体重"
+        },
+        {
+            "id": "Srhida000094",
+            "name": "腰围"
+        },
+        {
+            "id": "Srhida000095",
+            "name": "体温"
+        },
+        {
+            "id": "Srhida000096",
+            "name": "脉搏"
+        },
+        {
+            "id": "Srhida000097",
+            "name": "心率"
+        },
+        {
+            "id": "Srhida000098",
+            "name": "呼吸"
+        },
+        {
+            "id": "Srhida000099",
+            "name": "血压"
+        },
+        {
+            "id": "Srhida000100",
+            "name": "血糖"
+        },
+        {
+            "id": "Srhida000101",
+            "name": "血脂"
+        },
+        {
+            "id": "Srhida000102",
+            "name": "视力"
+        },
+        {
+            "id": "Srhida000103",
+            "name": "肺活量"
+        },
+        {
+            "id": "Srhida000104",
+            "name": "体质指数"
+        },
+        {
+            "id": "Srhida000105",
+            "name": "统一社会信用代码"
+        },
+        {
+            "id": "Srhida000106",
+            "name": "经营状态"
+        },
+        {
+            "id": "Srhida000107",
+            "name": "公司名称"
+        },
+        {
+            "id": "Srhida000108",
+            "name": "公司编码"
+        },
+        {
+            "id": "Srhida000109",
+            "name": "组织名称"
+        },
+        {
+            "id": "Srhida000110",
+            "name": "组织编码"
+        },
+        {
+            "id": "Srhida000111",
+            "name": "法人信息"
+        },
+        {
+            "id": "Srhida000115",
+            "name": "用户编码"
+        },
+        {
+            "id": "Srhida000116",
+            "name": "用户类型"
+        },
+        {
+            "id": "Srhida000117",
+            "name": "密码（明文）"
+        },
+        {
+            "id": "Srhida000118",
+            "name": "密码（密文）"
+        },
+        {
+            "id": "Srhida000119",
+            "name": "车牌号"
+        },
+        {
+            "id": "Srhida000120",
+            "name": "车架号"
+        },
+        {
+            "id": "Srhida000121",
+            "name": "车辆品牌"
+        },
+        {
+            "id": "Srhida000122",
+            "name": "车辆类型"
+        },
+        {
+            "id": "Srhida000123",
+            "name": "收入"
+        },
+        {
+            "id": "Srhida000124",
+            "name": "薪资"
+        },
+        {
+            "id": "Srhida000125",
+            "name": "费用"
+        },
+        {
+            "id": "Srhida000126",
+            "name": "利润"
+        },
+        {
+            "id": "Srhida000127",
+            "name": "成本"
+        },
+        {
+            "id": "Srhida000128",
+            "name": "预算"
+        },
+        {
+            "id": "Srhida000129",
+            "name": "支付宝账号"
+        },
+        {
+            "id": "Srhida000130",
+            "name": "支付方式"
+        },
+        {
+            "id": "Srhida000131",
+            "name": "发票号"
+        },
+        {
+            "id": "Srhida000132",
+            "name": "税率"
+        },
+        {
+            "id": "Srhida000133",
+            "name": "保单号"
+        },
+        {
+            "id": "Srhida000134",
+            "name": "投保单号"
+        },
+        {
+            "id": "Srhida000135",
+            "name": "保险公司"
+        },
+        {
+            "id": "Srhida000136",
+            "name": "保险名称"
+        },
+        {
+            "id": "Srhida000137",
+            "name": "保费"
+        },
+        {
+            "id": "Srhida000138",
+            "name": "投保人"
+        },
+        {
+            "id": "Srhida000139",
+            "name": "被保人"
+        },
+        {
+            "id": "Srhida000140",
+            "name": "医务人员姓名"
+        },
+        {
+            "id": "Srhida000141",
+            "name": "执业证书编号"
+        },
+        {
+            "id": "Srhida000142",
+            "name": "执业类别"
+        },
+        {
+            "id": "Srhida000143",
+            "name": "执业范围"
+        },
+        {
+            "id": "Srhida000144",
+            "name": "患者姓名"
+        },
+        {
+            "id": "Srhida000145",
+            "name": "住院号"
+        },
+        {
+            "id": "Srhida000146",
+            "name": "门诊号"
+        },
+        {
+            "id": "Srhida000147",
+            "name": "医保类型"
+        },
+        {
+            "id": "Srhida000148",
+            "name": "吸烟史"
+        },
+        {
+            "id": "Srhida000148",
+            "name": "吸烟史"
+        },
+        {
+            "id": "Srhida000149",
+            "name": "饮酒史"
+        },
+        {
+            "id": "Srhida000149",
+            "name": "饮酒史"
+        },
+        {
+            "id": "Srhida000150",
+            "name": "月经史"
+        },
+        {
+            "id": "Srhida000150",
+            "name": "月经史"
+        },
+        {
+            "id": "Srhida000151",
+            "name": "婚育史"
+        },
+        {
+            "id": "Srhida000151",
+            "name": "婚育史"
+        },
+        {
+            "id": "Srhida000152",
+            "name": "家族史"
+        },
+        {
+            "id": "Srhida000152",
+            "name": "家族史"
+        },
+        {
+            "id": "Srhida000153",
+            "name": "现病史"
+        },
+        {
+            "id": "Srhida000153",
+            "name": "现病史"
+        },
+        {
+            "id": "Srhida000154",
+            "name": "既往史"
+        },
+        {
+            "id": "Srhida000154",
+            "name": "既往史"
+        },
+        {
+            "id": "Srhida000155",
+            "name": "过敏史"
+        },
+        {
+            "id": "Srhida000155",
+            "name": "过敏史"
+        },
+        {
+            "id": "Srhida000156",
+            "name": "传染病史"
+        },
+        {
+            "id": "Srhida000156",
+            "name": "传染病史"
+        },
+        {
+            "id": "Srhida000157",
+            "name": "性病史"
+        },
+        {
+            "id": "Srhida000157",
+            "name": "性病史"
+        },
+        {
+            "id": "Srhida000158",
+            "name": "预防接种史"
+        },
+        {
+            "id": "Srhida000158",
+            "name": "预防接种史"
+        },
+        {
+            "id": "Srhida000159",
+            "name": "手术史"
+        },
+        {
+            "id": "Srhida000159",
+            "name": "手术史"
+        },
+        {
+            "id": "Srhida000160",
+            "name": "疾病名称"
+        },
+        {
+            "id": "Srhida000161",
+            "name": "疾病症状"
+        },
+        {
+            "id": "Srhida000162",
+            "name": "疾病传播途径"
+        },
+        {
+            "id": "Srhida000163",
+            "name": "疾病防控措施"
+        },
+        {
+            "id": "Srhida000164",
+            "name": "病案号"
+        },
+        {
+            "id": "Srhida000165",
+            "name": "药品名称"
+        },
+        {
+            "id": "Srhida000166",
+            "name": "药品规格"
+        },
+        {
+            "id": "Srhida000167",
+            "name": "药品用法"
+        },
+        {
+            "id": "Srhida000168",
+            "name": "用药数量"
+        },
+        {
+            "id": "Srhida000169",
+            "name": "主诉"
+        },
+        {
+            "id": "Srhida000170",
+            "name": "医嘱"
+        },
+        {
+            "id": "Srhida000171",
+            "name": "检查时间"
+        },
+        {
+            "id": "Srhida000172",
+            "name": "辅助检查"
+        },
+        {
+            "id": "Srhida000173",
+            "name": "体格检查"
+        },
+        {
+            "id": "Srhida000174",
+            "name": "专科检查"
+        },
+        {
+            "id": "Srhida000175",
+            "name": "精神检查"
+        },
+        {
+            "id": "Srhida000176",
+            "name": "手术名称"
+        },
+        {
+            "id": "Srhida000177",
+            "name": "手术等级"
+        },
+        {
+            "id": "Srhida000178",
+            "name": "术前诊断"
+        },
+        {
+            "id": "Srhida000179",
+            "name": "术中诊断"
+        },
+        {
+            "id": "Srhida000180",
+            "name": "麻醉方式"
+        },
+        {
+            "id": "Srhida000181",
+            "name": "手术经过"
+        },
+        {
+            "id": "Srhida000182",
+            "name": "失血量"
+        },
+        {
+            "id": "Srhida000183",
+            "name": "输血量"
+        },
+        {
+            "id": "Srhida000184",
+            "name": "手术用时"
+        },
+        {
+            "id": "Srhida000185",
+            "name": "医院名称"
+        },
+        {
+            "id": "Srhida000186",
+            "name": "医院代码"
+        },
+        {
+            "id": "Srhida000187",
+            "name": "医院等级"
+        },
+        {
+            "id": "Srhida000188",
+            "name": "科室代码"
+        },
+        {
+            "id": "Srhida000189",
+            "name": "科室名称"
+        },
+        {
+            "id": "Srhida000190",
+            "name": "检查报告时间"
+        },
+        {
+            "id": "Srhida000191",
+            "name": "报告申请时间"
+        },
+        {
+            "id": "Srhida000192",
+            "name": "检查号"
+        },
+        {
+            "id": "Srhida000193",
+            "name": "影像号"
+        },
+        {
+            "id": "Srhida000194",
+            "name": "放射号"
+        },
+        {
+            "id": "Srhida000195",
+            "name": "检验号"
+        },
+        {
+            "id": "Srhida000196",
+            "name": "病理号"
+        },
+        {
+            "id": "Srhida000197",
+            "name": "样本号"
+        },
+        {
+            "id": "Srhida000198",
+            "name": "样本种类"
+        },
+        {
+            "id": "Srhida000199",
+            "name": "报告名称"
+        },
+        {
+            "id": "Srhida000200",
+            "name": "超声号"
+        },
+        {
+            "id": "Srhida000201",
+            "name": "体检号"
+        },
+        {
+            "id": "Srhida000202",
+            "name": "病床号"
+        },
+        {
+            "id": "Srhida000203",
+            "name": "病房号"
+        },
+        {
+            "id": "Srhida000204",
+            "name": "内科体检信息"
+        },
+        {
+            "id": "Srhida000205",
+            "name": "外科体检信息"
+        },
+        {
+            "id": "Srhida000206",
+            "name": "口腔体检信息"
+        },
+        {
+            "id": "Srhida000207",
+            "name": "眼科体检信息"
+        },
+        {
+            "id": "Srhida000208",
+            "name": "耳鼻喉体检信息"
+        },
+        {
+            "id": "Srhida000209",
+            "name": "妇科体检信息"
+        },
+        {
+            "id": "Srhida000210",
+            "name": "临床诊断"
+        },
+        {
+            "id": "Srhida000211",
+            "name": "检查项目"
+        },
+        {
+            "id": "Srhida000212",
+            "name": "检查方法"
+        },
+        {
+            "id": "Srhida000213",
+            "name": "检查结论"
+        },
+        {
+            "id": "Srhida000214",
+            "name": "就诊时间"
+        },
+        {
+            "id": "Srhida000215",
+            "name": "诊断时间"
+        },
+        {
+            "id": "Srhida000216",
+            "name": "出院小结"
+        },
+        {
+            "id": "Srhida000217",
+            "name": "诊断意见"
+        },
+        {
+            "id": "Srhida000218",
+            "name": "入院记录"
+        },
+        {
+            "id": "Srhida000219",
+            "name": "入院时间"
+        },
+        {
+            "id": "Srhida000220",
+            "name": "出院记录"
+        },
+        {
+            "id": "Srhida000221",
+            "name": "出院时间"
+        },
+        {
+            "id": "Srhida000222",
+            "name": "诊疗经过"
+        },
+        {
+            "id": "Srhida000223",
+            "name": "复发日期"
+        },
+        {
+            "id": "Srhida000224",
+            "name": "观测天数"
+        },
+        {
+            "id": "Srhida000225",
+            "name": "愈合情况"
+        },
+        {
+            "id": "Srhida000226",
+            "name": "处理意见"
+        },
+        {
+            "id": "Srhida000227",
+            "name": "门诊随访要求"
+        },
+        {
+            "id": "Srhida000228",
+            "name": "死亡日期"
+        },
+        {
+            "id": "Srhida000229",
+            "name": "睡眠质量"
+        },
+        {
+            "id": "Srhida000230",
+            "name": "仪器信息"
+        },
+        {
+            "id": "Srhida000231",
+            "name": "治疗日期"
+        },
+        {
+            "id": "Srhida000232",
+            "name": "发病日期"
+        },
+        {
+            "id": "Srhida000233",
+            "name": "发病次数"
+        },
+        {
+            "id": "Srhida000234",
+            "name": "医师职称"
+        },
+        {
+            "id": "Srhida000235",
+            "name": "护士职称"
+        },
+        {
+            "id": "Srhida000236",
+            "name": "处方号"
+        },
+        {
+            "id": "Srhida000237",
+            "name": "信用风险评级"
+        },
+        {
+            "id": "Srhida000238",
+            "name": "信用等级"
+        },
+        {
+            "id": "Srhida000239",
+            "name": "验证码"
+        },
+        {
+            "id": "Srhida000241",
+            "name": "订单编号"
+        },
+        {
+            "id": "Srhida000242",
+            "name": "订单金额"
+        },
+        {
+            "id": "Srhida000243",
+            "name": "订单时间"
+        },
+        {
+            "id": "Srhida000244",
+            "name": "价格"
+        },
+        {
+            "id": "Srhida000245",
+            "name": "合同名称"
+        },
+        {
+            "id": "Srhida000246",
+            "name": "合同编号"
+        },
+        {
+            "id": "Srhida000252",
+            "name": "交易金额"
+        },
+        {
+            "id": "Srhida000253",
+            "name": "交易日期"
+        },
+        {
+            "id": "Srhida000254",
+            "name": "交易状态"
+        },
+        {
+            "id": "Srhida000255",
+            "name": "交易币种"
+        },
+        {
+            "id": "Srhida000256",
+            "name": "交易码"
+        },
+        {
+            "id": "Srhida000257",
+            "name": "交易流水号"
+        },
+        {
+            "id": "Srhida000268",
+            "name": "联系人"
+        },
+        {
+            "id": "Srhida000269",
+            "name": "联系电话"
+        },
+        {
+            "id": "Srhida000270",
+            "name": "资产名称"
+        },
+        {
+            "id": "Srhida000271",
+            "name": "资产编号"
+        },
+        {
+            "id": "Srhida000272",
+            "name": "资产类别"
+        },
+        {
+            "id": "Srhida000273",
+            "name": "设备名称"
+        },
+        {
+            "id": "Srhida000274",
+            "name": "设备类别"
+        },
+        {
+            "id": "Srhida000275",
+            "name": "设备编号"
+        },
+        {
+            "id": "Srhida000276",
+            "name": "设备型号"
+        },
+        {
+            "id": "Srhida000277",
+            "name": "设备生产厂商"
+        },
+        {
+            "id": "Srhida000278",
+            "name": "设备配置"
+        },
+        {
+            "id": "Srhida000279",
+            "name": "IPv4"
+        },
+        {
+            "id": "Srhida000280",
+            "name": "IPv6"
+        },
+        {
+            "id": "Srhida000281",
+            "name": "MEID"
+        },
+        {
+            "id": "Srhida000282",
+            "name": "IMEI"
+        },
+        {
+            "id": "Srhida000283",
+            "name": "IMSI"
+        },
+        {
+            "id": "Srhida000284",
+            "name": "MAC地址"
+        },
+        {
+            "id": "Srhida000285",
+            "name": "APN"
+        },
+        {
+            "id": "Srhida000286",
+            "name": "疫苗名称"
+        },
+        {
+            "id": "Srhida000286",
+            "name": "疫苗名称"
+        },
+        {
+            "id": "Srhida000287",
+            "name": "疫苗批号"
+        },
+        {
+            "id": "Srhida000287",
+            "name": "疫苗批号"
+        },
+        {
+            "id": "Srhida000288",
+            "name": "疫苗接种对象"
+        },
+        {
+            "id": "Srhida000289",
+            "name": "不动产单元号"
+        },
+        {
+            "id": "Srhida000290",
+            "name": "房产证号"
+        },
+        {
+            "id": "Srhida000291",
+            "name": "贷款保证金"
+        },
+        {
+            "id": "Srhida000292",
+            "name": "贷款类型"
+        },
+        {
+            "id": "Srhida000293",
+            "name": "贷款金额"
+        },
+        {
+            "id": "Srhida000294",
+            "name": "利息"
+        },
+        {
+            "id": "Srhida000296",
+            "name": "币种"
+        },
+        {
+            "id": "Srhida000297",
+            "name": "银行名称"
+        },
+        {
+            "id": "Srhida000300",
+            "name": "程序名称"
+        },
+        {
+            "id": "Srhida000301",
+            "name": "程序地址"
+        },
+        {
+            "id": "Srhida000302",
+            "name": "程序版本"
+        },
+        {
+            "id": "Srhida000303",
+            "name": "程序开发商"
+        },
+        {
+            "id": "Srhida000321",
+            "name": "专利名称"
+        },
+        {
+            "id": "Srhida000322",
+            "name": "专利申请号"
+        },
+        {
+            "id": "Srhida000323",
+            "name": "专利授权号"
+        },
+        {
+            "id": "Srhida000323",
+            "name": "专利授权号"
+        },
+        {
+            "id": "Srhida000324",
+            "name": "方案名称"
+        },
+        {
+            "id": "Srhida000325",
+            "name": "方案内容"
+        },
+        {
+            "id": "Srhida000326",
+            "name": "法规名称"
+        },
+        {
+            "id": "Srhida000327",
+            "name": "法规发布机构"
+        },
+        {
+            "id": "Srhida000328",
+            "name": "法规发布时间"
+        },
+        {
+            "id": "Srhida000329",
+            "name": "法规实施时间"
+        },
+        {
+            "id": "Srhida000330",
+            "name": "人口密度"
+        },
+        {
+            "id": "Srhida000331",
+            "name": "证书名称"
+        },
+        {
+            "id": "Srhida000332",
+            "name": "证书编号"
+        },
+        {
+            "id": "Srhida000333",
+            "name": "发证机构"
+        },
+        {
+            "id": "Srhida000337",
+            "name": "职工类型"
+        },
+        {
+            "id": "Srhida000338",
+            "name": "支付账号"
+        },
+        {
+            "id": "Srhida000472",
+            "name": "个人史"
+        },
+        {
+            "id": "Srhida000477",
+            "name": "档案类别"
+        },
+        {
+            "id": "Srhida000478",
+            "name": "档案归属"
+        }
+    ],
+    "MH/T 3039-2025 民航领域数据分类分级要求": [
+        {
+            "id": "Srhida000009",
+            "name": "政治面貌"
+        },
+        {
+            "id": "Srhida000021",
+            "name": "银行卡号"
+        },
+        {
+            "id": "Srhida000022",
+            "name": "脱敏银行卡号"
+        },
+        {
+            "id": "Srhida000060",
+            "name": "地址"
+        },
+        {
+            "id": "Srhida000064",
+            "name": "收件地址"
+        },
+        {
+            "id": "Srhida000065",
+            "name": "寄件地址"
+        },
+        {
+            "id": "Srhida000078",
+            "name": "定位"
+        },
+        {
+            "id": "Srhida000079",
+            "name": "经纬度"
+        },
+        {
+            "id": "Srhida000081",
+            "name": "气温"
+        },
+        {
+            "id": "Srhida000082",
+            "name": "降水"
+        },
+        {
+            "id": "Srhida000083",
+            "name": "日照"
+        },
+        {
+            "id": "Srhida000105",
+            "name": "统一社会信用代码"
+        },
+        {
+            "id": "Srhida000107",
+            "name": "公司名称"
+        },
+        {
+            "id": "Srhida000109",
+            "name": "组织名称"
+        },
+        {
+            "id": "Srhida000111",
+            "name": "法人信息"
+        },
+        {
+            "id": "Srhida000119",
+            "name": "车牌号"
+        },
+        {
+            "id": "Srhida000123",
+            "name": "收入"
+        },
+        {
+            "id": "Srhida000125",
+            "name": "费用"
+        },
+        {
+            "id": "Srhida000126",
+            "name": "利润"
+        },
+        {
+            "id": "Srhida000127",
+            "name": "成本"
+        },
+        {
+            "id": "Srhida000128",
+            "name": "预算"
+        },
+        {
+            "id": "Srhida000130",
+            "name": "支付方式"
+        },
+        {
+            "id": "Srhida000131",
+            "name": "发票号"
+        },
+        {
+            "id": "Srhida000132",
+            "name": "税率"
+        },
+        {
+            "id": "Srhida000133",
+            "name": "保单号"
+        },
+        {
+            "id": "Srhida000134",
+            "name": "投保单号"
+        },
+        {
+            "id": "Srhida000135",
+            "name": "保险公司"
+        },
+        {
+            "id": "Srhida000136",
+            "name": "保险名称"
+        },
+        {
+            "id": "Srhida000137",
+            "name": "保费"
+        },
+        {
+            "id": "Srhida000138",
+            "name": "投保人"
+        },
+        {
+            "id": "Srhida000140",
+            "name": "医务人员姓名"
+        },
+        {
+            "id": "Srhida000171",
+            "name": "检查时间"
+        },
+        {
+            "id": "Srhida000172",
+            "name": "辅助检查"
+        },
+        {
+            "id": "Srhida000173",
+            "name": "体格检查"
+        },
+        {
+            "id": "Srhida000174",
+            "name": "专科检查"
+        },
+        {
+            "id": "Srhida000175",
+            "name": "精神检查"
+        },
+        {
+            "id": "Srhida000201",
+            "name": "体检号"
+        },
+        {
+            "id": "Srhida000204",
+            "name": "内科体检信息"
+        },
+        {
+            "id": "Srhida000205",
+            "name": "外科体检信息"
+        },
+        {
+            "id": "Srhida000206",
+            "name": "口腔体检信息"
+        },
+        {
+            "id": "Srhida000207",
+            "name": "眼科体检信息"
+        },
+        {
+            "id": "Srhida000208",
+            "name": "耳鼻喉体检信息"
+        },
+        {
+            "id": "Srhida000209",
+            "name": "妇科体检信息"
+        },
+        {
+            "id": "Srhida000211",
+            "name": "检查项目"
+        },
+        {
+            "id": "Srhida000212",
+            "name": "检查方法"
+        },
+        {
+            "id": "Srhida000213",
+            "name": "检查结论"
+        },
+        {
+            "id": "Srhida000228",
+            "name": "死亡日期"
+        },
+        {
+            "id": "Srhida000239",
+            "name": "验证码"
+        },
+        {
+            "id": "Srhida000241",
+            "name": "订单编号"
+        },
+        {
+            "id": "Srhida000245",
+            "name": "合同名称"
+        },
+        {
+            "id": "Srhida000246",
+            "name": "合同编号"
+        },
+        {
+            "id": "Srhida000252",
+            "name": "交易金额"
+        },
+        {
+            "id": "Srhida000253",
+            "name": "交易日期"
+        },
+        {
+            "id": "Srhida000257",
+            "name": "交易流水号"
+        },
+        {
+            "id": "Srhida000261",
+            "name": "商品名称"
+        },
+        {
+            "id": "Srhida000263",
+            "name": "商品高度"
+        },
+        {
+            "id": "Srhida000264",
+            "name": "商品宽度"
+        },
+        {
+            "id": "Srhida000265",
+            "name": "商品长度"
+        },
+        {
+            "id": "Srhida000266",
+            "name": "商品重量"
+        },
+        {
+            "id": "Srhida000267",
+            "name": "商品类型"
+        },
+        {
+            "id": "Srhida000268",
+            "name": "联系人"
+        },
+        {
+            "id": "Srhida000269",
+            "name": "联系电话"
+        },
+        {
+            "id": "Srhida000277",
+            "name": "设备生产厂商"
+        },
+        {
+            "id": "Srhida000304",
+            "name": "课程名称"
+        },
+        {
+            "id": "Srhida000305",
+            "name": "课程编号"
+        },
+        {
+            "id": "Srhida000310",
+            "name": "成绩"
+        },
+        {
+            "id": "Srhida000326",
+            "name": "法规名称"
+        },
+        {
+            "id": "Srhida000327",
+            "name": "法规发布机构"
+        },
+        {
+            "id": "Srhida000328",
+            "name": "法规发布时间"
+        },
+        {
+            "id": "Srhida000329",
+            "name": "法规实施时间"
+        },
+        {
+            "id": "Srhida000338",
+            "name": "支付账号"
+        },
+        {
+            "id": "Srhida000339",
+            "name": "发动机型号"
+        },
+        {
+            "id": "Srhida000340",
+            "name": "航程"
+        },
+        {
+            "id": "Srhida000341",
+            "name": "军用机型"
+        },
+        {
+            "id": "Srhida000342",
+            "name": "采购数量"
+        },
+        {
+            "id": "Srhida000343",
+            "name": "供应商"
+        },
+        {
+            "id": "Srhida000344",
+            "name": "退役机型"
+        },
+        {
+            "id": "Srhida000345",
+            "name": "飞机服务年限"
+        },
+        {
+            "id": "Srhida000346",
+            "name": "退役原因"
+        },
+        {
+            "id": "Srhida000347",
+            "name": "退役日期"
+        },
+        {
+            "id": "Srhida000348",
+            "name": "退出飞机数量"
+        },
+        {
+            "id": "Srhida000349",
+            "name": "法条编号"
+        },
+        {
+            "id": "Srhida000350",
+            "name": "销售平均价"
+        },
+        {
+            "id": "Srhida000351",
+            "name": "项目名称"
+        },
+        {
+            "id": "Srhida000352",
+            "name": "项目地点"
+        },
+        {
+            "id": "Srhida000353",
+            "name": "航班量"
+        },
+        {
+            "id": "Srhida000354",
+            "name": "票价"
+        },
+        {
+            "id": "Srhida000355",
+            "name": "机建费"
+        },
+        {
+            "id": "Srhida000356",
+            "name": "燃油费"
+        },
+        {
+            "id": "Srhida000357",
+            "name": "退票费"
+        },
+        {
+            "id": "Srhida000358",
+            "name": "同舱改期费"
+        },
+        {
+            "id": "Srhida000359",
+            "name": "业务员标识"
+        },
+        {
+            "id": "Srhida000360",
+            "name": "折扣"
+        },
+        {
+            "id": "Srhida000361",
+            "name": "死亡人数"
+        },
+        {
+            "id": "Srhida000362",
+            "name": "型号合格证编号"
+        },
+        {
+            "id": "Srhida000363",
+            "name": "生产许可证编号"
+        },
+        {
+            "id": "Srhida000364",
+            "name": "所有人名称"
+        },
+        {
+            "id": "Srhida000365",
+            "name": "所有人地址"
+        },
+        {
+            "id": "Srhida000366",
+            "name": "飞控序号"
+        },
+        {
+            "id": "Srhida000367",
+            "name": "登记号"
+        },
+        {
+            "id": "Srhida000368",
+            "name": "下次检查时间"
+        },
+        {
+            "id": "Srhida000369",
+            "name": "检查地点"
+        },
+        {
+            "id": "Srhida000370",
+            "name": "执照编号"
+        },
+        {
+            "id": "Srhida000371",
+            "name": "飞行员姓名"
+        },
+        {
+            "id": "Srhida000372",
+            "name": "飞行员单位名称"
+        },
+        {
+            "id": "Srhida000373",
+            "name": "飞行员出生日期"
+        },
+        {
+            "id": "Srhida000374",
+            "name": "飞行员性别"
+        },
+        {
+            "id": "Srhida000375",
+            "name": "飞行员民族"
+        },
+        {
+            "id": "Srhida000376",
+            "name": "飞行员国籍"
+        },
+        {
+            "id": "Srhida000377",
+            "name": "飞行员身份证号"
+        },
+        {
+            "id": "Srhida000378",
+            "name": "飞行员护照号"
+        },
+        {
+            "id": "Srhida000379",
+            "name": "飞行员学位"
+        },
+        {
+            "id": "Srhida000380",
+            "name": "飞行员学历"
+        },
+        {
+            "id": "Srhida000381",
+            "name": "飞行员学校代码"
+        },
+        {
+            "id": "Srhida000382",
+            "name": "飞行员专业代码"
+        },
+        {
+            "id": "Srhida000383",
+            "name": "飞行员手机号"
+        },
+        {
+            "id": "Srhida000384",
+            "name": "档案编号"
+        },
+        {
+            "id": "Srhida000385",
+            "name": "体检合格证编号"
+        },
+        {
+            "id": "Srhida000386",
+            "name": "事项编码"
+        },
+        {
+            "id": "Srhida000387",
+            "name": "事项实施编码"
+        },
+        {
+            "id": "Srhida000388",
+            "name": "业务办理项编码"
+        },
+        {
+            "id": "Srhida000389",
+            "name": "办件编号"
+        },
+        {
+            "id": "Srhida000390",
+            "name": "申请人名称"
+        },
+        {
+            "id": "Srhida000391",
+            "name": "申请人证件号码"
+        },
+        {
+            "id": "Srhida000392",
+            "name": "联系人证件号码"
+        },
+        {
+            "id": "Srhida000393",
+            "name": "办件摘要"
+        },
+        {
+            "id": "Srhida000394",
+            "name": "办理人姓名"
+        },
+        {
+            "id": "Srhida000395",
+            "name": "办理结果"
+        },
+        {
+            "id": "Srhida000396",
+            "name": "结果证照编号"
+        },
+        {
+            "id": "Srhida000397",
+            "name": "经营许可证编号"
+        },
+        {
+            "id": "Srhida000398",
+            "name": "航权类型"
+        },
+        {
+            "id": "Srhida000399",
+            "name": "航线名称"
+        },
+        {
+            "id": "Srhida000400",
+            "name": "航班号"
+        },
+        {
+            "id": "Srhida000401",
+            "name": "航程日期"
+        },
+        {
+            "id": "Srhida000402",
+            "name": "座位数"
+        },
+        {
+            "id": "Srhida000403",
+            "name": "航段"
+        },
+        {
+            "id": "Srhida000404",
+            "name": "计划起飞时间"
+        },
+        {
+            "id": "Srhida000405",
+            "name": "计划到达时间"
+        },
+        {
+            "id": "Srhida000406",
+            "name": "旅客姓名"
+        },
+        {
+            "id": "Srhida000407",
+            "name": "旅客身份证号码"
+        },
+        {
+            "id": "Srhida000408",
+            "name": "旅客护照号"
+        },
+        {
+            "id": "Srhida000409",
+            "name": "旅客电话号码"
+        },
+        {
+            "id": "Srhida000410",
+            "name": "旅客邮箱"
+        },
+        {
+            "id": "Srhida000411",
+            "name": "座位号"
+        },
+        {
+            "id": "Srhida000412",
+            "name": "舱型"
+        },
+        {
+            "id": "Srhida000413",
+            "name": "舱位"
+        },
+        {
+            "id": "Srhida000414",
+            "name": "餐食"
+        },
+        {
+            "id": "Srhida000415",
+            "name": "客票号码"
+        },
+        {
+            "id": "Srhida000416",
+            "name": "代理商名称"
+        },
+        {
+            "id": "Srhida000417",
+            "name": "交易信息"
+        },
+        {
+            "id": "Srhida000418",
+            "name": "托运人姓名"
+        },
+        {
+            "id": "Srhida000419",
+            "name": "托运人地址"
+        },
+        {
+            "id": "Srhida000420",
+            "name": "托运人电话"
+        },
+        {
+            "id": "Srhida000421",
+            "name": "收货人姓名"
+        },
+        {
+            "id": "Srhida000422",
+            "name": "收货人地址"
+        },
+        {
+            "id": "Srhida000423",
+            "name": "收货人电话"
+        },
+        {
+            "id": "Srhida000424",
+            "name": "安检结果"
+        },
+        {
+            "id": "Srhida000425",
+            "name": "安检时间"
+        },
+        {
+            "id": "Srhida000426",
+            "name": "行李牌号"
+        },
+        {
+            "id": "Srhida000427",
+            "name": "安保工作人员姓名"
+        },
+        {
+            "id": "Srhida000428",
+            "name": "涉事人员姓名"
+        },
+        {
+            "id": "Srhida000429",
+            "name": "涉事人员性别"
+        },
+        {
+            "id": "Srhida000430",
+            "name": "涉事人员手机号"
+        },
+        {
+            "id": "Srhida000431",
+            "name": "民用机型"
+        },
+        {
+            "id": "Srhida000432",
+            "name": "航空器序列号"
+        },
+        {
+            "id": "Srhida000433",
+            "name": "唯一产品识别码"
+        },
+        {
+            "id": "Srhida000434",
+            "name": "北斗设备号"
+        },
+        {
+            "id": "Srhida000435",
+            "name": "地址码"
+        },
+        {
+            "id": "Srhida000436",
+            "name": "国籍登记号"
+        },
+        {
+            "id": "Srhida000437",
+            "name": "飞行计划编号"
+        },
+        {
+            "id": "Srhida000438",
+            "name": "起飞机场"
+        },
+        {
+            "id": "Srhida000439",
+            "name": "计划起飞机场"
+        },
+        {
+            "id": "Srhida000440",
+            "name": "到达机场"
+        },
+        {
+            "id": "Srhida000441",
+            "name": "计划到达机场"
+        },
+        {
+            "id": "Srhida000442",
+            "name": "经停机场"
+        },
+        {
+            "id": "Srhida000443",
+            "name": "计划经停机场"
+        },
+        {
+            "id": "Srhida000444",
+            "name": "飞行高度"
+        },
+        {
+            "id": "Srhida000445",
+            "name": "乘务员姓名"
+        },
+        {
+            "id": "Srhida000446",
+            "name": "起飞城市"
+        },
+        {
+            "id": "Srhida000447",
+            "name": "降落城市"
+        },
+        {
+            "id": "Srhida000448",
+            "name": "航班状态"
+        },
+        {
+            "id": "Srhida000449",
+            "name": "起飞时间"
+        },
+        {
+            "id": "Srhida000450",
+            "name": "到达时间"
+        },
+        {
+            "id": "Srhida000451",
+            "name": "实时位置"
+        },
+        {
+            "id": "Srhida000452",
+            "name": "飞行时长"
+        },
+        {
+            "id": "Srhida000453",
+            "name": "航班日期"
+        },
+        {
+            "id": "Srhida000454",
+            "name": "训练机构"
+        },
+        {
+            "id": "Srhida000455",
+            "name": "训练类型"
+        },
+        {
+            "id": "Srhida000456",
+            "name": "昼间着陆次数"
+        },
+        {
+            "id": "Srhida000457",
+            "name": "夜间着陆次数"
+        },
+        {
+            "id": "Srhida000458",
+            "name": "飞行小时数"
+        },
+        {
+            "id": "Srhida000459",
+            "name": "拆解件名称"
+        },
+        {
+            "id": "Srhida000460",
+            "name": "拆解件件号"
+        },
+        {
+            "id": "Srhida000461",
+            "name": "维修日期"
+        },
+        {
+            "id": "Srhida000462",
+            "name": "改装日期"
+        },
+        {
+            "id": "Srhida000463",
+            "name": "维修实施人员"
+        },
+        {
+            "id": "Srhida000464",
+            "name": "维修实施单位"
+        },
+        {
+            "id": "Srhida000465",
+            "name": "车辆类型"
+        },
+        {
+            "id": "Srhida000466",
+            "name": "车辆数量"
+        },
+        {
+            "id": "Srhida000467",
+            "name": "报警类型"
+        },
+        {
+            "id": "Srhida000468",
+            "name": "报警级别"
+        },
+        {
+            "id": "Srhida000469",
+            "name": "报警时间"
+        },
+        {
+            "id": "Srhida000470",
+            "name": "旅客年龄"
+        },
+        {
+            "id": "Srhida000471",
+            "name": "旅客性别"
+        },
+        {
+            "id": "Srhida000472",
+            "name": "旅客出生日期"
+        },
+        {
+            "id": "Srhida000473",
+            "name": "旅客购票时间"
+        },
+        {
+            "id": "Srhida000474",
+            "name": "旅客值机时间"
+        },
+        {
+            "id": "Srhida000475",
+            "name": "行李状态"
+        },
+        {
+            "id": "Srhida000476",
+            "name": "行李转盘ID"
+        },
+        {
+            "id": "Srhida000477",
+            "name": "行李条码号"
+        },
+        {
+            "id": "Srhida000478",
+            "name": "行李件数"
+        },
+        {
+            "id": "Srhida000479",
+            "name": "行李重量"
+        },
+        {
+            "id": "Srhida000480",
+            "name": "行李高度"
+        },
+        {
+            "id": "Srhida000481",
+            "name": "行李宽度"
+        },
+        {
+            "id": "Srhida000482",
+            "name": "行李长度"
+        },
+        {
+            "id": "Srhida000483",
+            "name": "凤凰知音卡号"
+        },
+        {
+            "id": "Srhida000484",
+            "name": "凤凰知音卡类型"
+        },
+        {
+            "id": "Srhida000485",
+            "name": "乘客类型"
+        },
+        {
+            "id": "Srhida000486",
+            "name": "安检口"
+        },
+        {
+            "id": "Srhida000487",
+            "name": "登机口"
+        },
+        {
+            "id": "Srhida000488",
+            "name": "货邮状态"
+        },
+        {
+            "id": "Srhida000489",
+            "name": "运单号"
+        },
+        {
+            "id": "Srhida000490",
+            "name": "货物件数"
+        },
+        {
+            "id": "Srhida000491",
+            "name": "停机位位置"
+        },
+        {
+            "id": "Srhida000492",
+            "name": "登机口编号"
+        },
+        {
+            "id": "Srhida000493",
+            "name": "航站楼编号"
+        },
+        {
+            "id": "Srhida000494",
+            "name": "风速"
+        },
+        {
+            "id": "Srhida000495",
+            "name": "风向"
+        },
+        {
+            "id": "Srhida000496",
+            "name": "能见度"
+        },
+        {
+            "id": "Srhida000497",
+            "name": "航行通告代码"
+        }
+    ]
+}
